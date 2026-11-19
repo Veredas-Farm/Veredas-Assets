@@ -1,0 +1,13 @@
+lista dos assets:
+personagem, 
+tiles
+cagaita
+facão
+feijão
+mandioca
+arroz
+capim
+cana-de-açúcar
+melancia
+soja
+carreta
