@@ -1,0 +1,4 @@
+[
+ {"name":"st-melancia2-moss","template":"moss-pixel","set":{"prompt":"sprite sheet of watermelon plant growth stages in one horizontal row, five separate stages from a small sprout to a low leafy vine with one big striped green watermelon, each stage clearly separated, each stage standing on a small patch of soil, side view, farming game crop sprites, evenly spaced, plain white background","width":1344,"height":576}},
+ {"name":"tree-cagaita3-moss","template":"moss-pixel","n":2,"set":{"prompt":"a single small brazilian cerrado cagaita tree: short crooked twisted trunk with corky grey-brown bark, irregular rounded crown made of several dense clumps of small olive green leaves, small round pale yellow fruits among the leaves, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"}}
+]

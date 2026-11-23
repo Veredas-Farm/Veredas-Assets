@@ -1,0 +1,6 @@
+[
+ {"name":"m-grass","template":"moss-pixel","set":{"prompt":"top-down seamless texture of short green grass with small tufts, game terrain tile, flat even lighting, fills the entire frame, no objects, no border"}},
+ {"name":"m-sandpath","template":"moss-pixel","set":{"prompt":"top-down seamless texture of packed sandy dirt road, light beige and reddish sand with tiny pebbles, game terrain tile, flat even lighting, fills the entire frame, no objects, no border"}},
+ {"name":"m-drygrass","template":"moss-pixel","set":{"prompt":"top-down seamless texture of dry golden savanna grass, yellowish straw, game terrain tile, flat even lighting, fills the entire frame, no objects, no border"}},
+ {"name":"m-soilside","template":"moss-pixel","set":{"prompt":"seamless texture of dark brown soil cross-section with small roots and stones, game terrain tile, flat even lighting, fills the entire frame, no objects, no border"}}
+]

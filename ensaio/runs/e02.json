@@ -1,0 +1,8 @@
+[
+ {"name":"tex-redsoil","template":"sdxl-pad","set":{"prompt":"top-down view of red brazilian cerrado soil texture, reddish-orange dirt with small pebbles and cracks, seamless tileable game terrain, flat lighting, no objects"}},
+ {"name":"tex-tilled","template":"sdxl-pad","set":{"prompt":"top-down view of freshly tilled farm soil texture, parallel straight furrows running horizontally, dark brown earth, seamless tileable game terrain, flat lighting"}},
+ {"name":"tex-soilside","template":"sdxl-pad","set":{"prompt":"side view cross-section of earth layers texture, dark brown soil with roots and small stones, seamless tileable game texture, flat lighting"}},
+ {"name":"tex-water","template":"sdxl-pad","set":{"prompt":"top-down view of calm clear river water texture, blue with soft light ripples, seamless tileable game terrain, flat lighting"}},
+ {"name":"tex-sandpath","template":"sdxl-pad","set":{"prompt":"top-down view of packed sandy dirt road texture, light beige sand with tiny pebbles, seamless tileable game terrain, flat lighting"}},
+ {"name":"tex-drygrass","template":"sdxl-pad","set":{"prompt":"top-down view of dry golden savanna grass texture, yellowish straw grass, seamless tileable game terrain, flat lighting, no objects"}}
+]

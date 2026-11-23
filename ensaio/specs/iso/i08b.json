@@ -1,0 +1,13 @@
+[
+ {
+  "name": "jatoba-folhada",
+  "template": "moss",
+  "base": "9b369755c87c",
+  "mask": "specs/iso/masks/jatoba.png",
+  "feather": 8,
+  "n": 2,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado jatoba tree with a grey trunk and spreading branches, crown of dense fresh light green young leaflets, no flowers, no pods, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ }
+]

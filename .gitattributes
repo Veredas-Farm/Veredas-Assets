@@ -1,0 +1,8 @@
+galeria/**/*.png filter=lfs diff=lfs merge=lfs -text
+galeria/**/*.gif filter=lfs diff=lfs merge=lfs -text
+galeria/**/*.webp filter=lfs diff=lfs merge=lfs -text
+galeria/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+ensaio/**/*.png filter=lfs diff=lfs merge=lfs -text
+ensaio/**/*.gif filter=lfs diff=lfs merge=lfs -text
+ensaio/**/*.webp filter=lfs diff=lfs merge=lfs -text
+ensaio/**/*.jpg filter=lfs diff=lfs merge=lfs -text

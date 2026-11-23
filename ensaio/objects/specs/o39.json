@@ -1,0 +1,122 @@
+[
+ {
+  "name": "sombraD-arvore_baru-D",
+  "template": "moss",
+  "base": "6a07eb1b81ab",
+  "mask": "objects/specs/masks/sombra_arvore_baru_D.png",
+  "feather": 8,
+  "n": 2,
+  "set": {
+   "prompt": "pixel art, plain flat white background, sun high overhead at noon, the soft medium grey shadow of a round leafy tree crown and trunk on the white ground directly beneath it, short shadow slightly toward the lower right, clearly visible solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ },
+ {
+  "name": "sombraD-arvore_pequi-D",
+  "template": "moss",
+  "base": "9d15a9181dad",
+  "mask": "objects/specs/masks/sombra_arvore_pequi_D.png",
+  "feather": 8,
+  "n": 2,
+  "set": {
+   "prompt": "pixel art, plain flat white background, sun high overhead at noon, the soft medium grey shadow of a round tree crown and trunk on the white ground directly beneath it, short shadow slightly toward the lower right, clearly visible solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ },
+ {
+  "name": "sombraD-arvore_seca_caida-D",
+  "template": "moss",
+  "base": "c76b7d60baca",
+  "mask": "objects/specs/masks/sombra_arvore_seca_caida_D.png",
+  "feather": 8,
+  "n": 2,
+  "set": {
+   "prompt": "pixel art, plain flat white background, sun high overhead at noon, the soft medium grey shadow of a fallen dead tree trunk with bare branches on the white ground directly beneath it, short shadow slightly toward the lower right, clearly visible solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ },
+ {
+  "name": "sombraD-house-D",
+  "template": "moss",
+  "base": "87bd5817672f",
+  "mask": "objects/specs/masks/sombra_house_D.png",
+  "feather": 8,
+  "n": 2,
+  "set": {
+   "prompt": "pixel art, plain flat white background, sun high overhead at noon, the soft medium grey shadow of a small farm house on the white ground directly beneath it, short shadow slightly toward the lower right, clearly visible solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ },
+ {
+  "name": "sombraD-arvore_cagaita-D",
+  "template": "moss",
+  "base": "e992101bffaf",
+  "mask": "objects/specs/masks/sombra_arvore_cagaita_D.png",
+  "feather": 8,
+  "n": 2,
+  "set": {
+   "prompt": "pixel art, plain flat white background, sun high overhead at noon, the soft medium grey shadow of a round leafy tree crown and trunk on the white ground directly beneath it, short shadow slightly toward the lower right, clearly visible solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ },
+ {
+  "name": "sombraD-arvore_ipe_roxo-D",
+  "template": "moss",
+  "base": "7b256a3ca740",
+  "mask": "objects/specs/masks/sombra_arvore_ipe_roxo_D.png",
+  "feather": 8,
+  "n": 2,
+  "set": {
+   "prompt": "pixel art, plain flat white background, sun high overhead at noon, the soft medium grey shadow of a round tree crown and trunk on the white ground directly beneath it, short shadow slightly toward the lower right, clearly visible solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ },
+ {
+  "name": "sombraD-arvore_ipe_amarelo-D",
+  "template": "moss",
+  "base": "287149eb7c9e",
+  "mask": "objects/specs/masks/sombra_arvore_ipe_amarelo_D.png",
+  "feather": 8,
+  "n": 2,
+  "set": {
+   "prompt": "pixel art, plain flat white background, sun high overhead at noon, the soft medium grey shadow of a round tree crown and trunk on the white ground directly beneath it, short shadow slightly toward the lower right, clearly visible solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ },
+ {
+  "name": "sombraD-carro_de_boi-D",
+  "template": "moss",
+  "base": "90f748bc8f5a",
+  "mask": "objects/specs/masks/sombra_carro_de_boi_D.png",
+  "feather": 8,
+  "n": 2,
+  "set": {
+   "prompt": "pixel art, plain flat white background, sun high overhead at noon, the soft medium grey shadow of a wooden ox cart on the white ground directly beneath it, short shadow slightly toward the lower right, clearly visible solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ },
+ {
+  "name": "sombraD-moinho-D",
+  "template": "moss",
+  "base": "c34bc4f061d5",
+  "mask": "objects/specs/masks/sombra_moinho_D.png",
+  "feather": 8,
+  "n": 2,
+  "set": {
+   "prompt": "pixel art, plain flat white background, sun high overhead at noon, the soft medium grey shadow of a small wooden water mill hut on the white ground directly beneath it, short shadow slightly toward the lower right, clearly visible solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ },
+ {
+  "name": "sombraD-cupinzeiro_alto-D",
+  "template": "moss",
+  "base": "8138917d5880",
+  "mask": "objects/specs/masks/sombra_cupinzeiro_alto_D.png",
+  "feather": 8,
+  "n": 2,
+  "set": {
+   "prompt": "pixel art, plain flat white background, sun high overhead at noon, the soft medium grey shadow of a small termite mound on the white ground directly beneath it, short shadow slightly toward the lower right, clearly visible solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ }
+]

@@ -1,0 +1,5 @@
+[
+ {"name":"rapadura-moss","template":"moss-pixel","set":{"prompt":"game inventory item icon, simple bold shapes, few large elements, cozy farming game item, thick dark outline, centered, plain white background: two stacked rectangular blocks of rapadura, solid brown cane sugar bricks","width":512,"height":512}},
+ {"name":"farinha-moss","template":"moss-pixel","set":{"prompt":"game inventory item icon, simple bold shapes, few large elements, cozy farming game item, thick dark outline, centered, plain white background: a small open burlap sack full of coarse pale yellow cassava flour","width":512,"height":512}},
+ {"name":"pequi-moss","template":"moss-pixel","set":{"prompt":"game inventory item icon, simple bold shapes, few large elements, cozy farming game item, thick dark outline, centered, plain white background: one round green pequi fruit and one cut open half showing the bright orange-yellow pulp","width":512,"height":512}}
+]

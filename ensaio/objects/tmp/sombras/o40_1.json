@@ -1,0 +1,14 @@
+[
+ {
+  "name": "sombraD-moinho-Dw",
+  "template": "moss",
+  "base": "c34bc4f061d5",
+  "mask": "objects/specs/masks/sombra_moinho_Dw.png",
+  "feather": 16,
+  "n": 2,
+  "set": {
+   "prompt": "pixel art, plain flat white background, sun high overhead at noon, the clearly visible dark grey cast shadow of a small wooden water mill hut on the white ground directly beneath it, short shadow slightly toward the lower right, strong contrast solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ }
+]

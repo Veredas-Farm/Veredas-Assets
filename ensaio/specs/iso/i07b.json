@@ -1,0 +1,13 @@
+[
+ {
+  "name": "paineira-seco",
+  "template": "moss",
+  "base": "a43ba46672b8",
+  "mask": "specs/iso/masks/paineira.png",
+  "feather": 8,
+  "n": 2,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado paineira tree with a bottle shaped swollen grey trunk with small thorns, crown of bare thin leafless branches, no flowers, no leaves, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ }
+]

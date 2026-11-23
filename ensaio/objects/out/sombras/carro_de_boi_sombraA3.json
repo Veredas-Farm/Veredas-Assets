@@ -1,0 +1,1 @@
+{"anchor": [24, 13], "offset": [-24, -13], "alpha": null, "levels": [0.22, 0.36, 0.5], "light": "cima-esquerda", "dir": [2, 1], "tech": "A3", "src": "o38/sombra-carro_de_boi-A3-*.png", "nota": "alfa j\u00e1 no PNG (3 n\u00edveis); n\u00e3o aplicar o alfa do CanvasGroup por cima"}

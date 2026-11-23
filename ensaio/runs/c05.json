@@ -1,0 +1,20 @@
+[
+ {
+  "name": "sheet8-055",
+  "template": "moss-pixel",
+  "base": "8950f616665d",
+  "set": {
+   "prompt": "pixel art character sprite sheet of a tiny chibi farmer boy, front view, side view facing right, back view and walking frames, same character in every frame, big head, wide straw hat, red plaid shirt, blue jeans, brown boots, simple flat colors, 16-bit RPG farming game sprites, dark outline, plain white background",
+   "denoise": 0.55
+  }
+ },
+ {
+  "name": "sheet8-070",
+  "template": "moss-pixel",
+  "base": "8950f616665d",
+  "set": {
+   "prompt": "pixel art character sprite sheet of a tiny chibi farmer boy, front view, side view facing right, back view and walking frames, same character in every frame, big head, wide straw hat, red plaid shirt, blue jeans, brown boots, simple flat colors, 16-bit RPG farming game sprites, dark outline, plain white background",
+   "denoise": 0.7
+  }
+ }
+]

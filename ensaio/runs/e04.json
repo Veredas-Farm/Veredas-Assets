@@ -1,0 +1,5 @@
+[
+ {"name":"decal-tufts","template":"sdxl-pad","set":{"prompt":"sprite sheet of many small separate grass tufts, tiny wildflowers in yellow, white and purple, and small clover patches, isometric game decorations, each item separate and small, plain white background"}},
+ {"name":"decal-stones","template":"sdxl-pad","set":{"prompt":"sprite sheet of many small separate pebbles, small rocks, fallen dry leaves and twigs, isometric game ground decorations, each item separate and small, plain white background"}},
+ {"name":"decal-cerrado","template":"sdxl-pad","set":{"prompt":"sprite sheet of brazilian cerrado ground decorations: a small termite mound, dry grass clumps, small cactus, tiny red flowers, small shrubs, each item separate, isometric game assets, plain white background"}}
+]

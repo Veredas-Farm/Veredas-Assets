@@ -1,0 +1,11 @@
+[
+ {
+  "name": "npc_vaqueiro_front",
+  "template": "moss-pixel",
+  "base": "b58ed21b8488",
+  "set": {
+   "prompt": "pixel art character sprite sheet of a tiny chibi brazilian cowboy, big head, brown leather hat with the brim turned up like a half moon, black mustache, brown leather jacket, dark leather trousers, black boots, every frame is the front view facing the camera, standing and walking frames, same character in every frame, simple flat colors, 16-bit RPG farming game sprites, dark outline, plain white background",
+   "denoise": 0.55
+  }
+ }
+]

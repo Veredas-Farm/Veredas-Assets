@@ -1,0 +1,7 @@
+[
+ {"name":"cagaita-sd15","template":"sd15-pixel","n":2,"set":{"prompt":"game item icon, three small round pale yellow fruits with a green leaf, dark outline, centered, white background"}},
+ {"name":"facao-sd15","template":"sd15-pixel","n":2,"set":{"prompt":"game item icon, machete with long steel blade and wooden handle, diagonal, dark outline, centered, white background"}},
+ {"name":"cana-mature-moss","template":"moss-pixel","set":{"prompt":"a single mature sugarcane plant clump for a farming game: several tall segmented green and yellow stalks with long arching leaves, growing from a small patch of soil, side view, crop sprite, dark outline, centered, plain white background"}},
+ {"name":"mandioca-mature-moss","template":"moss-pixel","set":{"prompt":"a single mature cassava plant for a farming game: thin reddish branching stems with hand-shaped palmate green leaves on top, growing from a small mound of soil, side view, crop sprite, dark outline, centered, plain white background"}},
+ {"name":"tree-cagaita-moss","template":"moss-pixel","set":{"prompt":"a single small brazilian cerrado cagaita tree for an isometric farming game: short twisted gnarled dark trunk, rounded dense green crown with many small round pale yellow fruits, three-quarter top-down view, game object sprite, centered, plain white background"}}
+]

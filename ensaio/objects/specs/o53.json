@@ -1,0 +1,12 @@
+[
+ {
+  "name": "pequi_c-folhada",
+  "template": "moss",
+  "base": "96160c7eba27",
+  "mask": "objects/specs/masks/pequi_c.png",
+  "feather": 8,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado pequi tree: short crooked twisted trunk with corky grey-brown bark, wide spreading flat-topped crown made of several separate dense clumps of small olive green leaves, no fruits, no flowers, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ }
+]

@@ -1,0 +1,11 @@
+[
+ {
+  "name": "p6frontB-055",
+  "template": "moss-pixel",
+  "base": "1273f108d4bc",
+  "set": {
+   "prompt": "pixel art character sprite sheet of a tiny chibi brazilian farmer boy, every frame is the front view facing the camera, standing and walking frames, same character in every frame, big head, brown hair, wide straw hat, plain cream shirt, brown trousers, dark brown boots, simple flat colors, 16-bit RPG farming game sprites, dark outline, plain white background",
+   "denoise": 0.55
+  }
+ }
+]

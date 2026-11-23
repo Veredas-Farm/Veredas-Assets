@@ -1,0 +1,12 @@
+[
+ {
+  "name": "i2i-side-070",
+  "template": "moss-pixel",
+  "base": "a1dc1e3d5bd3",
+  "set": {
+   "prompt": "a single chibi farmer boy standing, side view facing right, profile, super deformed proportions, very big head, tiny body, wide straw hat, red plaid shirt, blue jeans, brown boots, simple flat colors, cute 16-bit RPG farming game sprite, thick dark outline, centered, plain white background",
+   "denoise": 0.7,
+   "seed": 4030438531
+  }
+ }
+]

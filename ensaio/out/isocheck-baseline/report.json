@@ -1,0 +1,727 @@
+{
+  "limiares": {
+    "semi": 0,
+    "fora": 4,
+    "faltando": 4,
+    "iou_min": 0.98,
+    "cores_max": 64,
+    "costura_max": 1.5
+  },
+  "tiles": [
+    {
+      "name": "atlas_r0c0",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 3,
+      "missing": 3,
+      "iou": 0.989,
+      "colors": 6,
+      "seam_ratio": 4.578,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c0_map.png",
+      "preview_mixed": "atlas_r0c0_mixed.png",
+      "preview_object": "atlas_r0c0_object.png"
+    },
+    {
+      "name": "atlas_r0c1",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 3,
+      "missing": 3,
+      "iou": 0.989,
+      "colors": 6,
+      "seam_ratio": 3.631,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c1_map.png",
+      "preview_mixed": "atlas_r0c1_mixed.png",
+      "preview_object": "atlas_r0c1_object.png"
+    },
+    {
+      "name": "atlas_r0c2",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 2,
+      "missing": 3,
+      "iou": 0.9908,
+      "colors": 6,
+      "seam_ratio": 4.169,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c2_map.png",
+      "preview_mixed": "atlas_r0c2_mixed.png",
+      "preview_object": "atlas_r0c2_object.png"
+    },
+    {
+      "name": "atlas_r0c3",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 2,
+      "missing": 3,
+      "iou": 0.9908,
+      "colors": 5,
+      "seam_ratio": 6.777,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c3_map.png",
+      "preview_mixed": "atlas_r0c3_mixed.png",
+      "preview_object": "atlas_r0c3_object.png"
+    },
+    {
+      "name": "atlas_r0c4",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 2,
+      "missing": 4,
+      "iou": 0.989,
+      "colors": 6,
+      "seam_ratio": 4.246,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c4_map.png",
+      "preview_mixed": "atlas_r0c4_mixed.png",
+      "preview_object": "atlas_r0c4_object.png"
+    },
+    {
+      "name": "atlas_r0c5",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 2,
+      "missing": 3,
+      "iou": 0.9908,
+      "colors": 6,
+      "seam_ratio": 3.908,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c5_map.png",
+      "preview_mixed": "atlas_r0c5_mixed.png",
+      "preview_object": "atlas_r0c5_object.png"
+    },
+    {
+      "name": "atlas_r0c6",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 2,
+      "missing": 5,
+      "iou": 0.9872,
+      "colors": 6,
+      "seam_ratio": 3.553,
+      "fails": [
+        "buracos na silhueta",
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c6_map.png",
+      "preview_mixed": "atlas_r0c6_mixed.png",
+      "preview_object": "atlas_r0c6_object.png"
+    },
+    {
+      "name": "atlas_r0c7",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 2,
+      "missing": 5,
+      "iou": 0.9872,
+      "colors": 6,
+      "seam_ratio": 3.127,
+      "fails": [
+        "buracos na silhueta",
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c7_map.png",
+      "preview_mixed": "atlas_r0c7_mixed.png",
+      "preview_object": "atlas_r0c7_object.png"
+    },
+    {
+      "name": "atlas_r0c8",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 2,
+      "missing": 3,
+      "iou": 0.9908,
+      "colors": 6,
+      "seam_ratio": 1.792,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c8_map.png",
+      "preview_mixed": "atlas_r0c8_mixed.png",
+      "preview_object": "atlas_r0c8_object.png"
+    },
+    {
+      "name": "atlas_r0c9",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 2,
+      "missing": 3,
+      "iou": 0.9908,
+      "colors": 6,
+      "seam_ratio": 6.401,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c9_map.png",
+      "preview_mixed": "atlas_r0c9_mixed.png",
+      "preview_object": "atlas_r0c9_object.png"
+    },
+    {
+      "name": "atlas_r0c10",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 2,
+      "missing": 3,
+      "iou": 0.9908,
+      "colors": 6,
+      "seam_ratio": 4.092,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c10_map.png",
+      "preview_mixed": "atlas_r0c10_mixed.png",
+      "preview_object": "atlas_r0c10_object.png"
+    },
+    {
+      "name": "atlas_r1c0",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 8,
+      "missing": 0,
+      "iou": 0.9855,
+      "colors": 6,
+      "seam_ratio": 1.801,
+      "fails": [
+        "fora da silhueta",
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r1c0_map.png",
+      "preview_mixed": "atlas_r1c0_mixed.png",
+      "preview_object": "atlas_r1c0_object.png"
+    },
+    {
+      "name": "atlas_r1c1",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 13,
+      "missing": 6,
+      "iou": 0.9659,
+      "colors": 6,
+      "seam_ratio": 1.793,
+      "fails": [
+        "fora da silhueta",
+        "buracos na silhueta",
+        "IoU",
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r1c1_map.png",
+      "preview_mixed": "atlas_r1c1_mixed.png",
+      "preview_object": "atlas_r1c1_object.png"
+    },
+    {
+      "name": "atlas_r1c2",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 27,
+      "missing": 13,
+      "iou": 0.9299,
+      "colors": 7,
+      "seam_ratio": 1.884,
+      "fails": [
+        "fora da silhueta",
+        "buracos na silhueta",
+        "IoU",
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r1c2_map.png",
+      "preview_mixed": "atlas_r1c2_mixed.png",
+      "preview_object": "atlas_r1c2_object.png"
+    },
+    {
+      "name": "atlas_r1c3",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 1,
+      "missing": 0,
+      "iou": 0.9982,
+      "colors": 7,
+      "seam_ratio": 1.713,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r1c3_map.png",
+      "preview_mixed": "atlas_r1c3_mixed.png",
+      "preview_object": "atlas_r1c3_object.png"
+    },
+    {
+      "name": "atlas_r1c4",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 1,
+      "missing": 0,
+      "iou": 0.9982,
+      "colors": 7,
+      "seam_ratio": 1.257,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r1c4_map.png",
+      "preview_mixed": "atlas_r1c4_mixed.png",
+      "preview_object": "atlas_r1c4_object.png"
+    },
+    {
+      "name": "atlas_r1c5",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 1,
+      "missing": 0,
+      "iou": 0.9982,
+      "colors": 7,
+      "seam_ratio": 1.138,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r1c5_map.png",
+      "preview_mixed": "atlas_r1c5_mixed.png",
+      "preview_object": "atlas_r1c5_object.png"
+    },
+    {
+      "name": "atlas_r1c6",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 20,
+      "missing": 2,
+      "iou": 0.961,
+      "colors": 5,
+      "seam_ratio": 1.307,
+      "fails": [
+        "fora da silhueta",
+        "IoU"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r1c6_map.png",
+      "preview_mixed": "atlas_r1c6_mixed.png",
+      "preview_object": "atlas_r1c6_object.png"
+    },
+    {
+      "name": "atlas_r1c7",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 2,
+      "missing": 4,
+      "iou": 0.989,
+      "colors": 6,
+      "seam_ratio": 1.828,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r1c7_map.png",
+      "preview_mixed": "atlas_r1c7_mixed.png",
+      "preview_object": "atlas_r1c7_object.png"
+    },
+    {
+      "name": "atlas_r1c8",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 28,
+      "missing": 7,
+      "iou": 0.9388,
+      "colors": 9,
+      "seam_ratio": 1.252,
+      "fails": [
+        "fora da silhueta",
+        "buracos na silhueta",
+        "IoU"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r1c8_map.png",
+      "preview_mixed": "atlas_r1c8_mixed.png",
+      "preview_object": "atlas_r1c8_object.png"
+    },
+    {
+      "name": "atlas_r1c9",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 25,
+      "missing": 2,
+      "iou": 0.9525,
+      "colors": 10,
+      "seam_ratio": 1.323,
+      "fails": [
+        "fora da silhueta",
+        "IoU"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r1c9_map.png",
+      "preview_mixed": "atlas_r1c9_mixed.png",
+      "preview_object": "atlas_r1c9_object.png"
+    },
+    {
+      "name": "atlas_r1c10",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 9,
+      "iou": 0.9835,
+      "colors": 5,
+      "seam_ratio": 4.176,
+      "fails": [
+        "buracos na silhueta",
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r1c10_map.png",
+      "preview_mixed": "atlas_r1c10_mixed.png",
+      "preview_object": "atlas_r1c10_object.png"
+    },
+    {
+      "name": "atlas_r2c0",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 92,
+      "missing": 0,
+      "iou": 0.8553,
+      "colors": 7,
+      "seam_ratio": 7.152,
+      "fails": [
+        "fora da silhueta",
+        "IoU",
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r2c0_map.png",
+      "preview_mixed": "atlas_r2c0_mixed.png",
+      "preview_object": "atlas_r2c0_object.png"
+    },
+    {
+      "name": "atlas_r2c1",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 124,
+      "missing": 0,
+      "iou": 0.8144,
+      "colors": 7,
+      "seam_ratio": 6.63,
+      "fails": [
+        "fora da silhueta",
+        "IoU",
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r2c1_map.png",
+      "preview_mixed": "atlas_r2c1_mixed.png",
+      "preview_object": "atlas_r2c1_object.png"
+    },
+    {
+      "name": "atlas_r2c2",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 49,
+      "missing": 0,
+      "iou": 0.9174,
+      "colors": 8,
+      "seam_ratio": 14.22,
+      "fails": [
+        "fora da silhueta",
+        "IoU",
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r2c2_map.png",
+      "preview_mixed": "atlas_r2c2_mixed.png",
+      "preview_object": "atlas_r2c2_object.png"
+    },
+    {
+      "name": "atlas_r2c3",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 5,
+      "seam_ratio": 2.131,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r2c3_map.png",
+      "preview_mixed": "atlas_r2c3_mixed.png",
+      "preview_object": "atlas_r2c3_object.png"
+    },
+    {
+      "name": "atlas_r2c4",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 1,
+      "missing": 0,
+      "iou": 0.9982,
+      "colors": 8,
+      "seam_ratio": 1.31,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r2c4_map.png",
+      "preview_mixed": "atlas_r2c4_mixed.png",
+      "preview_object": "atlas_r2c4_object.png"
+    },
+    {
+      "name": "atlas_r2c5",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 11,
+      "missing": 0,
+      "iou": 0.9802,
+      "colors": 5,
+      "seam_ratio": 1.771,
+      "fails": [
+        "fora da silhueta",
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r2c5_map.png",
+      "preview_mixed": "atlas_r2c5_mixed.png",
+      "preview_object": "atlas_r2c5_object.png"
+    },
+    {
+      "name": "atlas_r2c6",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 6,
+      "missing": 0,
+      "iou": 0.9891,
+      "colors": 8,
+      "seam_ratio": 2.513,
+      "fails": [
+        "fora da silhueta",
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r2c6_map.png",
+      "preview_mixed": "atlas_r2c6_mixed.png",
+      "preview_object": "atlas_r2c6_object.png"
+    },
+    {
+      "name": "atlas_r2c7",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 76,
+      "missing": 0,
+      "iou": 0.8774,
+      "colors": 7,
+      "seam_ratio": 1.181,
+      "fails": [
+        "fora da silhueta",
+        "IoU"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r2c7_map.png",
+      "preview_mixed": "atlas_r2c7_mixed.png",
+      "preview_object": "atlas_r2c7_object.png"
+    },
+    {
+      "name": "atlas_r2c8",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 62,
+      "missing": 0,
+      "iou": 0.8977,
+      "colors": 7,
+      "seam_ratio": 0.903,
+      "fails": [
+        "fora da silhueta",
+        "IoU"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r2c8_map.png",
+      "preview_mixed": "atlas_r2c8_mixed.png",
+      "preview_object": "atlas_r2c8_object.png"
+    },
+    {
+      "name": "atlas_r2c9",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 84,
+      "missing": 0,
+      "iou": 0.8662,
+      "colors": 7,
+      "seam_ratio": 1.027,
+      "fails": [
+        "fora da silhueta",
+        "IoU"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r2c9_map.png",
+      "preview_mixed": "atlas_r2c9_mixed.png",
+      "preview_object": "atlas_r2c9_object.png"
+    },
+    {
+      "name": "atlas_r2c10",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 87,
+      "missing": 2,
+      "iou": 0.859,
+      "colors": 6,
+      "seam_ratio": 1.595,
+      "fails": [
+        "fora da silhueta",
+        "IoU",
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r2c10_map.png",
+      "preview_mixed": "atlas_r2c10_mixed.png",
+      "preview_object": "atlas_r2c10_object.png"
+    }
+  ],
+  "grupo": null
+}

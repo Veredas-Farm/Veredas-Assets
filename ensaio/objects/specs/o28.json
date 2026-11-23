@@ -1,0 +1,22 @@
+[
+ {
+  "name": "ipe_roxo-verde",
+  "template": "moss",
+  "base": "fe54b28c2eab",
+  "mask": "objects/specs/masks/ipe_roxo.png",
+  "feather": 16,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado ipe roxo tree in the rainy season: short crooked twisted trunk with corky grey-brown bark, wide round crown made of dense clumps of small olive green leaves, no flowers, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ },
+ {
+  "name": "ipe_roxo-brotando",
+  "template": "moss",
+  "base": "fe54b28c2eab",
+  "mask": "objects/specs/masks/ipe_roxo.png",
+  "feather": 16,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado ipe roxo tree sprouting new leaves: short crooked twisted trunk with corky grey-brown bark, thin twisted grey-brown branches with sparse small clusters of fresh light green young leaves and a few scattered small pink-purple flowers, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ }
+]

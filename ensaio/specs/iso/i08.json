@@ -1,0 +1,13 @@
+[
+ {
+  "name": "jatoba-florida",
+  "template": "moss",
+  "base": "9b369755c87c",
+  "mask": "specs/iso/masks/jatoba.png",
+  "feather": 8,
+  "n": 2,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado jatoba tree with a grey trunk and spreading branches, crown of dense dark green leaflets covered in many tiny cream white flowers, no pods, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ }
+]

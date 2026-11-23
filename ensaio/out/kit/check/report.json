@@ -1,0 +1,302 @@
+{
+  "limiares": {
+    "semi": 0,
+    "fora": 4,
+    "faltando": 4,
+    "iou_min": 0.98,
+    "cores_max": 64,
+    "costura_max": 1.5
+  },
+  "tiles": [
+    {
+      "name": "atlas_r0c0",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 6,
+      "seam_ratio": 2.034,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c0_map.png",
+      "preview_mixed": "atlas_r0c0_mixed.png"
+    },
+    {
+      "name": "atlas_r0c1",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 7,
+      "seam_ratio": 4.244,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c1_map.png",
+      "preview_mixed": "atlas_r0c1_mixed.png"
+    },
+    {
+      "name": "atlas_r0c2",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 7,
+      "seam_ratio": 1.048,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r0c2_map.png",
+      "preview_mixed": "atlas_r0c2_mixed.png"
+    },
+    {
+      "name": "atlas_r0c3",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 7,
+      "seam_ratio": 4.3,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c3_map.png",
+      "preview_mixed": "atlas_r0c3_mixed.png"
+    },
+    {
+      "name": "atlas_r0c4",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 7,
+      "seam_ratio": 2.186,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r0c4_map.png",
+      "preview_mixed": "atlas_r0c4_mixed.png"
+    },
+    {
+      "name": "atlas_r0c5",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 7,
+      "seam_ratio": 1.244,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r0c5_map.png",
+      "preview_mixed": "atlas_r0c5_mixed.png"
+    },
+    {
+      "name": "atlas_r1c0",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 6,
+      "seam_ratio": 1.221,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r1c0_map.png",
+      "preview_mixed": "atlas_r1c0_mixed.png"
+    },
+    {
+      "name": "atlas_r1c1",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 7,
+      "seam_ratio": 1.17,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r1c1_map.png",
+      "preview_mixed": "atlas_r1c1_mixed.png"
+    },
+    {
+      "name": "atlas_r1c2",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 7,
+      "seam_ratio": 1.543,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r1c2_map.png",
+      "preview_mixed": "atlas_r1c2_mixed.png"
+    },
+    {
+      "name": "atlas_r2c0",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 5,
+      "seam_ratio": 1.117,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r2c0_map.png",
+      "preview_mixed": "atlas_r2c0_mixed.png"
+    },
+    {
+      "name": "atlas_r2c1",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 6,
+      "seam_ratio": 1.901,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r2c1_map.png",
+      "preview_mixed": "atlas_r2c1_mixed.png"
+    },
+    {
+      "name": "atlas_r2c2",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 6,
+      "seam_ratio": 1.33,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r2c2_map.png",
+      "preview_mixed": "atlas_r2c2_mixed.png"
+    },
+    {
+      "name": "atlas_r2c3",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 6,
+      "seam_ratio": 2.978,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r2c3_map.png",
+      "preview_mixed": "atlas_r2c3_mixed.png"
+    },
+    {
+      "name": "atlas_r2c4",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 6,
+      "seam_ratio": 2.712,
+      "fails": [
+        "costura"
+      ],
+      "pass": false,
+      "preview_map": "atlas_r2c4_map.png",
+      "preview_mixed": "atlas_r2c4_mixed.png"
+    },
+    {
+      "name": "atlas_r2c5",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 6,
+      "seam_ratio": 1.28,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r2c5_map.png",
+      "preview_mixed": "atlas_r2c5_mixed.png"
+    }
+  ],
+  "grupo": {
+    "seam_ratio_mistura": 4.525,
+    "pass": false
+  }
+}

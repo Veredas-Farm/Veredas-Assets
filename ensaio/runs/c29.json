@@ -1,0 +1,11 @@
+[
+ {
+  "name": "npc_dona_back",
+  "template": "moss-pixel",
+  "base": "85a4bf093b01",
+  "set": {
+   "prompt": "pixel art character sprite sheet of a tiny chibi old brazilian shopkeeper lady, big head, grey hair tied in a bun, pink floral dress, white apron, brown shoes, every frame is the back view, seen from behind, face not visible, standing and walking frames, same character in every frame, simple flat colors, 16-bit RPG farming game sprites, dark outline, plain white background",
+   "denoise": 0.55
+  }
+ }
+]

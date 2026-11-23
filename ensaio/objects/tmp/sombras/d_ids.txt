@@ -1,0 +1,10 @@
+arvore_baru 6a07eb1b81ab
+arvore_cagaita e992101bffaf
+arvore_ipe_amarelo 287149eb7c9e
+arvore_ipe_roxo 7b256a3ca740
+arvore_pequi 9d15a9181dad
+arvore_seca_caida c76b7d60baca
+carro_de_boi 90f748bc8f5a
+cupinzeiro_alto 8138917d5880
+house 87bd5817672f
+moinho c34bc4f061d5

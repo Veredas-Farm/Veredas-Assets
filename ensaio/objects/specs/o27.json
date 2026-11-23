@@ -1,0 +1,32 @@
+[
+ {
+  "name": "ipe_amarelo-verde",
+  "template": "moss",
+  "base": "b5a204ce1917",
+  "mask": "objects/specs/masks/ipe_amarelo.png",
+  "feather": 16,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado ipe amarelo tree in the rainy season: short crooked twisted trunk with corky grey-brown bark, wide round crown made of dense clumps of small olive green leaves, no flowers, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ },
+ {
+  "name": "ipe_amarelo-brotando",
+  "template": "moss",
+  "base": "b5a204ce1917",
+  "mask": "objects/specs/masks/ipe_amarelo.png",
+  "feather": 16,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado ipe amarelo tree sprouting new leaves: short crooked twisted trunk with corky grey-brown bark, thin twisted grey-brown branches with sparse small clusters of fresh light green young leaves and a few scattered small bright yellow flowers, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ },
+ {
+  "name": "ipe_roxo-seco",
+  "template": "moss",
+  "base": "fe54b28c2eab",
+  "mask": "objects/specs/masks/ipe_roxo.png",
+  "feather": 16,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado ipe roxo tree in the dry season: short crooked twisted trunk with corky grey-brown bark, completely bare leafless crown of many thin twisted grey-brown branches, no leaves, no flowers, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ }
+]
