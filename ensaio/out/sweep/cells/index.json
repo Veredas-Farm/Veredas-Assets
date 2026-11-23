@@ -1,0 +1,6609 @@
+{
+ "f2bb493c5e65": {
+  "model": "sdxl-pad",
+  "base": "terrain",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 126534,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.914
+   },
+   "terreno_01_grama": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9161
+   },
+   "terreno_02_grama": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9184
+   },
+   "terreno_03_grama": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9168
+   },
+   "terreno_04_trilha": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9115
+   },
+   "terreno_05_trilha": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9606
+   },
+   "terreno_06_trilha": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9581
+   },
+   "terreno_07_trilha": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9624
+   },
+   "terreno_08_palha": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9339
+   },
+   "terreno_09_palha": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9276
+   },
+   "terreno_10_umida": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9341
+   },
+   "terreno_11_umida": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9468
+   },
+   "terreno_12_cascalho": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9288
+   },
+   "terreno_13_cascalho": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9506
+   },
+   "terreno_14_arado": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9429
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.9244
+   }
+  }
+ },
+ "7cbd11ba0d83": {
+  "model": "sdxl-pad",
+  "base": "terrain",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 131485,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.9089
+   },
+   "terreno_01_grama": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.913
+   },
+   "terreno_02_grama": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.9115
+   },
+   "terreno_03_grama": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.9127
+   },
+   "terreno_04_trilha": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.9389
+   },
+   "terreno_05_trilha": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.9453
+   },
+   "terreno_06_trilha": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.946
+   },
+   "terreno_07_trilha": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.9342
+   },
+   "terreno_08_palha": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.9224
+   },
+   "terreno_09_palha": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.8917
+   },
+   "terreno_10_umida": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.933
+   },
+   "terreno_11_umida": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.9325
+   },
+   "terreno_12_cascalho": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.9227
+   },
+   "terreno_13_cascalho": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.9319
+   },
+   "terreno_14_arado": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.9282
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.9413
+   }
+  }
+ },
+ "4cdc5312a3cb": {
+  "model": "sdxl-pixel-iso",
+  "base": "terrain",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 118118,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.9575
+   },
+   "terreno_01_grama": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.9591
+   },
+   "terreno_02_grama": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.959
+   },
+   "terreno_03_grama": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.9591
+   },
+   "terreno_04_trilha": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.9506
+   },
+   "terreno_05_trilha": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.9579
+   },
+   "terreno_06_trilha": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.9625
+   },
+   "terreno_07_trilha": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.9539
+   },
+   "terreno_08_palha": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.953
+   },
+   "terreno_09_palha": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.9574
+   },
+   "terreno_10_umida": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.9439
+   },
+   "terreno_11_umida": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.9412
+   },
+   "terreno_12_cascalho": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.943
+   },
+   "terreno_13_cascalho": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.9547
+   },
+   "terreno_14_arado": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.9461
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.9503
+   }
+  }
+ },
+ "e770fb6bc4d2": {
+  "model": "sdxl-pixel-iso",
+  "base": "terrain",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 107337,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.958
+   },
+   "terreno_01_grama": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.9585
+   },
+   "terreno_02_grama": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.9605
+   },
+   "terreno_03_grama": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.9597
+   },
+   "terreno_04_trilha": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.9457
+   },
+   "terreno_05_trilha": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.9498
+   },
+   "terreno_06_trilha": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.9518
+   },
+   "terreno_07_trilha": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.9423
+   },
+   "terreno_08_palha": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.9563
+   },
+   "terreno_09_palha": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.9602
+   },
+   "terreno_10_umida": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.9558
+   },
+   "terreno_11_umida": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.953
+   },
+   "terreno_12_cascalho": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.9413
+   },
+   "terreno_13_cascalho": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.9588
+   },
+   "terreno_14_arado": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.9456
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.9521
+   }
+  }
+ },
+ "33ae6b685fdf": {
+  "model": "sdxl-pixel",
+  "base": "small",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 127902,
+  "sx": 4.8936170212765955,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.7503
+   },
+   "cupinzeiro_baixo": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.6725
+   },
+   "pilao": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.6475
+   },
+   "cerca_aroeira": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.2778
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.6805
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.7402
+   },
+   "pilao_b": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.6556
+   },
+   "cerca_aroeira_esp": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.3537
+   },
+   "icone_arroz": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.6086
+   },
+   "icone_cagaita": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.4385
+   },
+   "icone_cana": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.5167
+   },
+   "icone_facao": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.3611
+   },
+   "icone_farinha": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.6576
+   },
+   "icone_melancia": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.6328
+   },
+   "icone_pequi": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.5197
+   },
+   "icone_rapadura": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.6579
+   },
+   "farmer_idle_0": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.2677
+   },
+   "icone_feijao": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.539
+   },
+   "icone_soja": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.4957
+   },
+   "icone_capim": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.6408
+   }
+  }
+ },
+ "1e1c16a256cf": {
+  "model": "sdxl-pixel",
+  "base": "small",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 117821,
+  "sx": 4.8936170212765955,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.6801
+   },
+   "cupinzeiro_baixo": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.5051
+   },
+   "pilao": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.5913
+   },
+   "cerca_aroeira": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.4063
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.723
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.7476
+   },
+   "pilao_b": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.6714
+   },
+   "cerca_aroeira_esp": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.378
+   },
+   "icone_arroz": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.5185
+   },
+   "icone_cagaita": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.5651
+   },
+   "icone_cana": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.5797
+   },
+   "icone_facao": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.492
+   },
+   "icone_farinha": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.6817
+   },
+   "icone_melancia": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.6805
+   },
+   "icone_pequi": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.6763
+   },
+   "icone_rapadura": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.7053
+   },
+   "farmer_idle_0": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.4289
+   },
+   "icone_feijao": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.4701
+   },
+   "icone_soja": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.5787
+   },
+   "icone_capim": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.5875
+   }
+  }
+ },
+ "b96f046b00ac": {
+  "model": "moss-pixel",
+  "base": "small",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 270127,
+  "sx": 4.9361702127659575,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.7828
+   },
+   "cupinzeiro_baixo": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.7857
+   },
+   "pilao": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.7286
+   },
+   "cerca_aroeira": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.3931
+   },
+   "cupinzeiro_alto_c": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.6493
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.7849
+   },
+   "pilao_b": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.7779
+   },
+   "cerca_aroeira_esp": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.364
+   },
+   "icone_arroz": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.5765
+   },
+   "icone_cagaita": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.6444
+   },
+   "icone_cana": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.5114
+   },
+   "icone_facao": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.6029
+   },
+   "icone_farinha": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.7605
+   },
+   "icone_melancia": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.752
+   },
+   "icone_pequi": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.7442
+   },
+   "icone_rapadura": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.7476
+   },
+   "farmer_idle_0": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.5127
+   },
+   "icone_feijao": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.5289
+   },
+   "icone_soja": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.6428
+   },
+   "icone_capim": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.7012
+   }
+  }
+ },
+ "b76f3fed5054": {
+  "model": "moss-pixel",
+  "base": "small",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 235400,
+  "sx": 4.9361702127659575,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.7686
+   },
+   "cupinzeiro_baixo": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.7397
+   },
+   "pilao": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.7691
+   },
+   "cerca_aroeira": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.4703
+   },
+   "cupinzeiro_alto_c": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.7613
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.8119
+   },
+   "pilao_b": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.7763
+   },
+   "cerca_aroeira_esp": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.5154
+   },
+   "icone_arroz": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.5455
+   },
+   "icone_cagaita": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.6438
+   },
+   "icone_cana": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.3921
+   },
+   "icone_facao": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.5203
+   },
+   "icone_farinha": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.7029
+   },
+   "icone_melancia": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.7387
+   },
+   "icone_pequi": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.6488
+   },
+   "icone_rapadura": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.7891
+   },
+   "farmer_idle_0": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.4518
+   },
+   "icone_feijao": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.5357
+   },
+   "icone_soja": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.6061
+   },
+   "icone_capim": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.6739
+   }
+  }
+ },
+ "c9097a194c97": {
+  "model": "sdxl-pad",
+  "base": "obj",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 150081,
+  "sx": 6.55,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.8642
+   },
+   "moinho": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.8744
+   },
+   "carroca_4rodas": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.8638
+   },
+   "moinho_agua": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.8577
+   }
+  }
+ },
+ "030f7ed59209": {
+  "model": "sdxl-pad",
+  "base": "obj",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 137482,
+  "sx": 6.55,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.8621
+   },
+   "moinho": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.8754
+   },
+   "carroca_4rodas": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.8519
+   },
+   "moinho_agua": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.8656
+   }
+  }
+ },
+ "1d32c61313e8": {
+  "model": "sdxl-sai",
+  "base": "terrain",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 78725,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9431
+   },
+   "terreno_01_grama": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9472
+   },
+   "terreno_02_grama": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9462
+   },
+   "terreno_03_grama": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9455
+   },
+   "terreno_04_trilha": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9525
+   },
+   "terreno_05_trilha": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9644
+   },
+   "terreno_06_trilha": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9639
+   },
+   "terreno_07_trilha": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9594
+   },
+   "terreno_08_palha": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9482
+   },
+   "terreno_09_palha": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9517
+   },
+   "terreno_10_umida": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9579
+   },
+   "terreno_11_umida": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9563
+   },
+   "terreno_12_cascalho": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9375
+   },
+   "terreno_13_cascalho": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9598
+   },
+   "terreno_14_arado": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9484
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.9543
+   }
+  }
+ },
+ "70a7843acff0": {
+  "model": "sdxl-pixel-iso",
+  "base": "small",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 128662,
+  "sx": 4.8936170212765955,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.7742
+   },
+   "cupinzeiro_baixo": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.673
+   },
+   "pilao": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.6395
+   },
+   "cerca_aroeira": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.2894
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.7069
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.7664
+   },
+   "pilao_b": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.6496
+   },
+   "cerca_aroeira_esp": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.3612
+   },
+   "icone_arroz": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.6072
+   },
+   "icone_cagaita": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.4117
+   },
+   "icone_cana": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.5158
+   },
+   "icone_facao": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.4616
+   },
+   "icone_farinha": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.6479
+   },
+   "icone_melancia": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.6358
+   },
+   "icone_pequi": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.3848
+   },
+   "icone_rapadura": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.6934
+   },
+   "farmer_idle_0": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.3111
+   },
+   "icone_feijao": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.4974
+   },
+   "icone_soja": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.5385
+   },
+   "icone_capim": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.6541
+   }
+  }
+ },
+ "915b6619f5ac": {
+  "model": "sdxl-pixel-iso",
+  "base": "small",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 115682,
+  "sx": 4.8936170212765955,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.6979
+   },
+   "cupinzeiro_baixo": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.5651
+   },
+   "pilao": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.6372
+   },
+   "cerca_aroeira": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.4182
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.7263
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.753
+   },
+   "pilao_b": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.6742
+   },
+   "cerca_aroeira_esp": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.3905
+   },
+   "icone_arroz": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.5629
+   },
+   "icone_cagaita": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.5237
+   },
+   "icone_cana": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.5739
+   },
+   "icone_facao": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.3567
+   },
+   "icone_farinha": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.6918
+   },
+   "icone_melancia": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.6295
+   },
+   "icone_pequi": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.6247
+   },
+   "icone_rapadura": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.7078
+   },
+   "farmer_idle_0": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.4268
+   },
+   "icone_feijao": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.5464
+   },
+   "icone_soja": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.5548
+   },
+   "icone_capim": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.6144
+   }
+  }
+ },
+ "56e0d80e7778": {
+  "model": "moss-pixel",
+  "base": "t3",
+  "dn": 0.7,
+  "seed": 1001,
+  "ms": 213813,
+  "sx": 6.659898477157361,
+  "cells": {
+   "arvore_baru_maduro": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.6107
+   },
+   "arvore_cagaita_florida": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.5014
+   }
+  }
+ },
+ "b3c231a19b17": {
+  "model": "sdxl-sai",
+  "base": "terrain",
+  "dn": 0.75,
+  "seed": 1001,
+  "ms": 102798,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.9053
+   },
+   "terreno_01_grama": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.8887
+   },
+   "terreno_02_grama": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.9026
+   },
+   "terreno_03_grama": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.8947
+   },
+   "terreno_04_trilha": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.9432
+   },
+   "terreno_05_trilha": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.9419
+   },
+   "terreno_06_trilha": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.9435
+   },
+   "terreno_07_trilha": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.9419
+   },
+   "terreno_08_palha": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.8458
+   },
+   "terreno_09_palha": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.8769
+   },
+   "terreno_10_umida": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.9447
+   },
+   "terreno_11_umida": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.9437
+   },
+   "terreno_12_cascalho": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.9129
+   },
+   "terreno_13_cascalho": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.9208
+   },
+   "terreno_14_arado": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.937
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.9243
+   }
+  }
+ },
+ "4a0e2353d65a": {
+  "model": "moss-pixel",
+  "base": "t1",
+  "dn": 0.7,
+  "seed": 1001,
+  "ms": 265628,
+  "sx": 7.053763440860215,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.592
+   },
+   "arvore_pequi_maduro": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.5712
+   }
+  }
+ },
+ "8ae3f504d1cb": {
+  "model": "moss-pixel",
+  "base": "t1",
+  "dn": 0.7,
+  "seed": 1002,
+  "ms": 253399,
+  "sx": 7.053763440860215,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.5606
+   },
+   "arvore_pequi_maduro": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.5368
+   }
+  }
+ },
+ "4c30d4a38d87": {
+  "model": "sd15-pixel",
+  "base": "small",
+  "dn": 0.45,
+  "seed": 1001,
+  "ms": 17829,
+  "sx": 2.4680851063829787,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.6942
+   },
+   "cupinzeiro_baixo": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.6916
+   },
+   "pilao": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.5484
+   },
+   "cerca_aroeira": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.2356
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.6337
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.5826
+   },
+   "pilao_b": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.6285
+   },
+   "cerca_aroeira_esp": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.1636
+   },
+   "icone_arroz": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.4155
+   },
+   "icone_cagaita": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.4213
+   },
+   "icone_cana": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.3758
+   },
+   "icone_facao": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.3876
+   },
+   "icone_farinha": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.6445
+   },
+   "icone_melancia": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.6732
+   },
+   "icone_pequi": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.5906
+   },
+   "icone_rapadura": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.6763
+   },
+   "farmer_idle_0": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.4077
+   },
+   "icone_feijao": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.5752
+   },
+   "icone_soja": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.5262
+   },
+   "icone_capim": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.4954
+   }
+  }
+ },
+ "b9c047ff5d7e": {
+  "model": "sd15-pixel",
+  "base": "small",
+  "dn": 0.45,
+  "seed": 1002,
+  "ms": 9944,
+  "sx": 2.4680851063829787,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.6858
+   },
+   "cupinzeiro_baixo": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.6683
+   },
+   "pilao": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.4953
+   },
+   "cerca_aroeira": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.1326
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.641
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.6537
+   },
+   "pilao_b": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.5866
+   },
+   "cerca_aroeira_esp": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.1053
+   },
+   "icone_arroz": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.4076
+   },
+   "icone_cagaita": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.4615
+   },
+   "icone_cana": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.3882
+   },
+   "icone_facao": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.2568
+   },
+   "icone_farinha": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.5781
+   },
+   "icone_melancia": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.6566
+   },
+   "icone_pequi": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.6374
+   },
+   "icone_rapadura": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.6626
+   },
+   "farmer_idle_0": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.3147
+   },
+   "icone_feijao": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.5691
+   },
+   "icone_soja": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.503
+   },
+   "icone_capim": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.6524
+   }
+  }
+ },
+ "01483dbd9776": {
+  "model": "sdxl-pad",
+  "base": "t3",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 124919,
+  "sx": 6.700507614213198,
+  "cells": {
+   "arvore_baru_maduro": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.7885
+   },
+   "arvore_cagaita_florida": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.6134
+   }
+  }
+ },
+ "eead09cd473a": {
+  "model": "sdxl-pad",
+  "base": "t3",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 119628,
+  "sx": 6.700507614213198,
+  "cells": {
+   "arvore_baru_maduro": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.7759
+   },
+   "arvore_cagaita_florida": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.578
+   }
+  }
+ },
+ "7d13b27d4103": {
+  "model": "moss-pixel",
+  "base": "obj",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 296655,
+  "sx": 6.6,
+  "cells": {
+   "carro_de_boi": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.8166
+   },
+   "moinho": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.8422
+   },
+   "carroca_4rodas": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.8338
+   },
+   "moinho_agua": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.8346
+   }
+  }
+ },
+ "9f2124e5e097": {
+  "model": "moss-pixel",
+  "base": "obj",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 353768,
+  "sx": 6.6,
+  "cells": {
+   "carro_de_boi": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.8043
+   },
+   "moinho": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.8452
+   },
+   "carroca_4rodas": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.8462
+   },
+   "moinho_agua": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.8317
+   }
+  }
+ },
+ "9029996b0002": {
+  "model": "sdxl-pixel-iso",
+  "base": "obj",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 111869,
+  "sx": 6.55,
+  "cells": {}
+ },
+ "7c4d63960452": {
+  "model": "sdxl-pixel-iso",
+  "base": "obj",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 115551,
+  "sx": 6.55,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.7937
+   },
+   "moinho": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.8257
+   },
+   "carroca_4rodas": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.758
+   },
+   "moinho_agua": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.8204
+   }
+  }
+ },
+ "d2df2822295e": {
+  "model": "sd15-pixel",
+  "base": "crops",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 28980,
+  "sx": 3.037037037037037,
+  "cells": {
+   "cultivo_arroz": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.3612
+   },
+   "cultivo_feijao": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.2524
+   }
+  }
+ },
+ "8bbd67226161": {
+  "model": "sd15-pixel",
+  "base": "crops",
+  "dn": 0.6,
+  "seed": 1002,
+  "ms": 9428,
+  "sx": 3.037037037037037,
+  "cells": {
+   "cultivo_arroz": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.468
+   },
+   "cultivo_feijao": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.2995
+   }
+  }
+ },
+ "050f47b94caa": {
+  "model": "sd15-pixel",
+  "base": "terrain",
+  "dn": 0.45,
+  "seed": 1001,
+  "ms": 12346,
+  "sx": 4.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.9348
+   },
+   "terreno_01_grama": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.9345
+   },
+   "terreno_02_grama": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.935
+   },
+   "terreno_03_grama": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.9319
+   },
+   "terreno_04_trilha": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.9354
+   },
+   "terreno_05_trilha": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.9406
+   },
+   "terreno_06_trilha": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.941
+   },
+   "terreno_07_trilha": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.9453
+   },
+   "terreno_08_palha": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.931
+   },
+   "terreno_09_palha": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.9325
+   },
+   "terreno_10_umida": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.9258
+   },
+   "terreno_11_umida": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.9209
+   },
+   "terreno_12_cascalho": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.9238
+   },
+   "terreno_13_cascalho": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.9289
+   },
+   "terreno_14_arado": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.9299
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.9369
+   }
+  }
+ },
+ "7d82dfa34d0f": {
+  "model": "sd15-pixel",
+  "base": "terrain",
+  "dn": 0.45,
+  "seed": 1002,
+  "ms": 12796,
+  "sx": 4.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9395
+   },
+   "terreno_01_grama": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9421
+   },
+   "terreno_02_grama": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9393
+   },
+   "terreno_03_grama": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9415
+   },
+   "terreno_04_trilha": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9349
+   },
+   "terreno_05_trilha": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9406
+   },
+   "terreno_06_trilha": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9426
+   },
+   "terreno_07_trilha": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9393
+   },
+   "terreno_08_palha": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9101
+   },
+   "terreno_09_palha": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9136
+   },
+   "terreno_10_umida": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9537
+   },
+   "terreno_11_umida": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9517
+   },
+   "terreno_12_cascalho": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9311
+   },
+   "terreno_13_cascalho": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9482
+   },
+   "terreno_14_arado": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.889
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.9097
+   }
+  }
+ },
+ "265f1a144514": {
+  "model": "moss-refiner",
+  "base": "t1",
+  "dn": 0.8,
+  "seed": 1001,
+  "ms": 227040,
+  "sx": 7.053763440860215,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.5804
+   },
+   "arvore_pequi_maduro": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.5703
+   }
+  }
+ },
+ "205f52bb1fcb": {
+  "model": "moss-pixel",
+  "base": "crops",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 256812,
+  "sx": 6.074074074074074,
+  "cells": {
+   "cultivo_arroz": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.6791
+   },
+   "cultivo_feijao": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.5679
+   }
+  }
+ },
+ "b4d908925faa": {
+  "model": "sd15-pixel",
+  "base": "terrain",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 11057,
+  "sx": 4.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.8834
+   },
+   "terreno_01_grama": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.8837
+   },
+   "terreno_02_grama": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.8814
+   },
+   "terreno_03_grama": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.882
+   },
+   "terreno_04_trilha": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.8397
+   },
+   "terreno_05_trilha": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.8439
+   },
+   "terreno_06_trilha": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.8428
+   },
+   "terreno_07_trilha": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.8444
+   },
+   "terreno_08_palha": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.8529
+   },
+   "terreno_09_palha": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.853
+   },
+   "terreno_10_umida": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.8879
+   },
+   "terreno_11_umida": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.8855
+   },
+   "terreno_12_cascalho": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.8644
+   },
+   "terreno_13_cascalho": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.867
+   },
+   "terreno_14_arado": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.8692
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.8689
+   }
+  }
+ },
+ "1f8e9e2f3d1a": {
+  "model": "sd15-pixel",
+  "base": "terrain",
+  "dn": 0.6,
+  "seed": 1002,
+  "ms": 9599,
+  "sx": 4.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.8898
+   },
+   "terreno_01_grama": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.8947
+   },
+   "terreno_02_grama": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.8933
+   },
+   "terreno_03_grama": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.8947
+   },
+   "terreno_04_trilha": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.897
+   },
+   "terreno_05_trilha": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.9058
+   },
+   "terreno_06_trilha": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.9049
+   },
+   "terreno_07_trilha": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.9036
+   },
+   "terreno_08_palha": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.8642
+   },
+   "terreno_09_palha": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.8641
+   },
+   "terreno_10_umida": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.8895
+   },
+   "terreno_11_umida": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.8873
+   },
+   "terreno_12_cascalho": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.8835
+   },
+   "terreno_13_cascalho": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.8904
+   },
+   "terreno_14_arado": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.8465
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.8293
+   }
+  }
+ },
+ "a2fc1d95b09b": {
+  "model": "sd15-pixel",
+  "base": "obj",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 10153,
+  "sx": 3.3,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.4165
+   },
+   "moinho": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.6769
+   },
+   "carroca_4rodas": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.6038
+   },
+   "moinho_agua": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.6575
+   }
+  }
+ },
+ "f055de72bdca": {
+  "model": "sd15-pixel",
+  "base": "obj",
+  "dn": 0.6,
+  "seed": 1002,
+  "ms": 10226,
+  "sx": 3.3,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.4549
+   },
+   "moinho": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.7087
+   },
+   "carroca_4rodas": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.681
+   },
+   "moinho_agua": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.7271
+   }
+  }
+ },
+ "18c7415c4968": {
+  "model": "sdxl-pixel-iso",
+  "base": "t1",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 123491,
+  "sx": 7.010752688172043,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.7108
+   },
+   "arvore_pequi_maduro": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.7044
+   }
+  }
+ },
+ "0ac62a6aa833": {
+  "model": "sdxl-pixel-iso",
+  "base": "t1",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 118899,
+  "sx": 7.010752688172043,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.6961
+   },
+   "arvore_pequi_maduro": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.7156
+   }
+  }
+ },
+ "b7aa028192f9": {
+  "model": "moss-refiner",
+  "base": "obj",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 218299,
+  "sx": 6.6,
+  "cells": {
+   "carro_de_boi": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.7482
+   },
+   "moinho": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.8058
+   },
+   "carroca_4rodas": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.8167
+   },
+   "moinho_agua": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.7848
+   }
+  }
+ },
+ "79af51b04664": {
+  "model": "sdxl-pad",
+  "base": "terrain",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 81732,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.9626
+   },
+   "terreno_01_grama": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.9611
+   },
+   "terreno_02_grama": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.961
+   },
+   "terreno_03_grama": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.9615
+   },
+   "terreno_04_trilha": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.9456
+   },
+   "terreno_05_trilha": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.9736
+   },
+   "terreno_06_trilha": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.9701
+   },
+   "terreno_07_trilha": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.9647
+   },
+   "terreno_08_palha": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.9468
+   },
+   "terreno_09_palha": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.9542
+   },
+   "terreno_10_umida": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.9594
+   },
+   "terreno_11_umida": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.9596
+   },
+   "terreno_12_cascalho": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.9453
+   },
+   "terreno_13_cascalho": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.961
+   },
+   "terreno_14_arado": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.9482
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.9495
+   }
+  }
+ },
+ "33c61e072c47": {
+  "model": "sdxl-pad",
+  "base": "terrain",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 114246,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.9578
+   },
+   "terreno_01_grama": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.9644
+   },
+   "terreno_02_grama": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.9604
+   },
+   "terreno_03_grama": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.9638
+   },
+   "terreno_04_trilha": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.9657
+   },
+   "terreno_05_trilha": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.9758
+   },
+   "terreno_06_trilha": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.9753
+   },
+   "terreno_07_trilha": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.9675
+   },
+   "terreno_08_palha": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.9481
+   },
+   "terreno_09_palha": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.9596
+   },
+   "terreno_10_umida": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.96
+   },
+   "terreno_11_umida": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.957
+   },
+   "terreno_12_cascalho": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.9489
+   },
+   "terreno_13_cascalho": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.9678
+   },
+   "terreno_14_arado": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.9492
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.9564
+   }
+  }
+ },
+ "5611aec5796a": {
+  "model": "sdxl-pixel-iso",
+  "base": "small",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 118575,
+  "sx": 4.8936170212765955,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7835
+   },
+   "cupinzeiro_baixo": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7445
+   },
+   "pilao": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7512
+   },
+   "cerca_aroeira": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.3281
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.8023
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7818
+   },
+   "pilao_b": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7599
+   },
+   "cerca_aroeira_esp": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.4678
+   },
+   "icone_arroz": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.6501
+   },
+   "icone_cagaita": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.6947
+   },
+   "icone_cana": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.6132
+   },
+   "icone_facao": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.5226
+   },
+   "icone_farinha": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7634
+   },
+   "icone_melancia": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7273
+   },
+   "icone_pequi": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7464
+   },
+   "icone_rapadura": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7507
+   },
+   "farmer_idle_0": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.5679
+   },
+   "icone_feijao": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7039
+   },
+   "icone_soja": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7289
+   },
+   "icone_capim": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.694
+   }
+  }
+ },
+ "b38eddc00556": {
+  "model": "sdxl-pixel-iso",
+  "base": "small",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 116763,
+  "sx": 4.8936170212765955,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.794
+   },
+   "cupinzeiro_baixo": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.7352
+   },
+   "pilao": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.7546
+   },
+   "cerca_aroeira": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.4165
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.8299
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.7872
+   },
+   "pilao_b": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.7596
+   },
+   "cerca_aroeira_esp": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.4677
+   },
+   "icone_arroz": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.6248
+   },
+   "icone_cagaita": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.695
+   },
+   "icone_cana": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.6223
+   },
+   "icone_facao": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.5874
+   },
+   "icone_farinha": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.7892
+   },
+   "icone_melancia": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.7654
+   },
+   "icone_pequi": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.7403
+   },
+   "icone_rapadura": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.7695
+   },
+   "farmer_idle_0": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.5708
+   },
+   "icone_feijao": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.6834
+   },
+   "icone_soja": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.6936
+   },
+   "icone_capim": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.7315
+   }
+  }
+ },
+ "1050e35885c7": {
+  "model": "sdxl-pad",
+  "base": "small",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 126672,
+  "sx": 4.8936170212765955,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.793
+   },
+   "cupinzeiro_baixo": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.6512
+   },
+   "pilao": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.6749
+   },
+   "cerca_aroeira": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.294
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.7579
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.7869
+   },
+   "pilao_b": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.7254
+   },
+   "cerca_aroeira_esp": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.3193
+   },
+   "icone_arroz": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.4219
+   },
+   "icone_cagaita": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.5463
+   },
+   "icone_cana": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.4984
+   },
+   "icone_facao": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.5047
+   },
+   "icone_farinha": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.6938
+   },
+   "icone_melancia": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.6886
+   },
+   "icone_pequi": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.6177
+   },
+   "icone_rapadura": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.7014
+   },
+   "farmer_idle_0": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.192
+   },
+   "icone_feijao": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.5385
+   },
+   "icone_soja": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.5166
+   },
+   "icone_capim": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.6512
+   }
+  }
+ },
+ "b80a1408ef45": {
+  "model": "sdxl-pad",
+  "base": "small",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 145653,
+  "sx": 4.8936170212765955,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.796
+   },
+   "cupinzeiro_baixo": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.6247
+   },
+   "pilao": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.631
+   },
+   "cerca_aroeira": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.408
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.7779
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.7784
+   },
+   "pilao_b": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.6596
+   },
+   "cerca_aroeira_esp": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.3983
+   },
+   "icone_arroz": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.3943
+   },
+   "icone_cagaita": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.6234
+   },
+   "icone_cana": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.481
+   },
+   "icone_facao": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.3605
+   },
+   "icone_farinha": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.6993
+   },
+   "icone_melancia": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.6853
+   },
+   "icone_pequi": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.6811
+   },
+   "icone_rapadura": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.6307
+   },
+   "farmer_idle_0": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.5291
+   },
+   "icone_feijao": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.4448
+   },
+   "icone_soja": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.528
+   },
+   "icone_capim": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.5623
+   }
+  }
+ },
+ "0054c5ad58ce": {
+  "model": "sd15-pixel",
+  "base": "small",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 10207,
+  "sx": 2.4680851063829787,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.5171
+   },
+   "cupinzeiro_baixo": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.5956
+   },
+   "pilao": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.3295
+   },
+   "cerca_aroeira": {
+    "file": "sd15-pixel_d60_1001",
+    "score": -0.0715
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.4572
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.5674
+   },
+   "pilao_b": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.4765
+   },
+   "cerca_aroeira_esp": {
+    "file": "sd15-pixel_d60_1001",
+    "score": -0.0086
+   },
+   "icone_arroz": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.2907
+   },
+   "icone_cagaita": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.1804
+   },
+   "icone_cana": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.2783
+   },
+   "icone_facao": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.1845
+   },
+   "icone_farinha": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.386
+   },
+   "icone_melancia": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.5694
+   },
+   "icone_pequi": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.4143
+   },
+   "icone_rapadura": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.524
+   },
+   "farmer_idle_0": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.2012
+   },
+   "icone_feijao": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.3551
+   },
+   "icone_soja": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.385
+   },
+   "icone_capim": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.2574
+   }
+  }
+ },
+ "78a4b72e6a50": {
+  "model": "sd15-pixel",
+  "base": "small",
+  "dn": 0.6,
+  "seed": 1002,
+  "ms": 9988,
+  "sx": 2.4680851063829787,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.4819
+   },
+   "cupinzeiro_baixo": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.5056
+   },
+   "pilao": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.4119
+   },
+   "cerca_aroeira": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.0476
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.5095
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.6434
+   },
+   "pilao_b": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.5735
+   },
+   "cerca_aroeira_esp": {
+    "file": "sd15-pixel_d60_1002",
+    "score": -0.0437
+   },
+   "icone_arroz": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.2053
+   },
+   "icone_cagaita": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.0746
+   },
+   "icone_cana": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.1629
+   },
+   "icone_facao": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.0298
+   },
+   "icone_farinha": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.5227
+   },
+   "icone_melancia": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.6203
+   },
+   "icone_pequi": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.3994
+   },
+   "icone_rapadura": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.6897
+   },
+   "farmer_idle_0": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.0414
+   },
+   "icone_feijao": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.0207
+   },
+   "icone_soja": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.2237
+   },
+   "icone_capim": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.345
+   }
+  }
+ },
+ "5281280c1d1a": {
+  "model": "sdxl-pixel",
+  "base": "small",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 119279,
+  "sx": 4.8936170212765955,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.802
+   },
+   "cupinzeiro_baixo": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.7405
+   },
+   "pilao": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.7574
+   },
+   "cerca_aroeira": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.37
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.807
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.785
+   },
+   "pilao_b": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.7655
+   },
+   "cerca_aroeira_esp": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.4304
+   },
+   "icone_arroz": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.6411
+   },
+   "icone_cagaita": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.6916
+   },
+   "icone_cana": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.6326
+   },
+   "icone_facao": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.5645
+   },
+   "icone_farinha": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.7551
+   },
+   "icone_melancia": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.7309
+   },
+   "icone_pequi": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.7559
+   },
+   "icone_rapadura": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.754
+   },
+   "farmer_idle_0": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.5716
+   },
+   "icone_feijao": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.7018
+   },
+   "icone_soja": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.7351
+   },
+   "icone_capim": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.7213
+   }
+  }
+ },
+ "575d531b510a": {
+  "model": "sdxl-pixel",
+  "base": "small",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 124281,
+  "sx": 4.8936170212765955,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.7883
+   },
+   "cupinzeiro_baixo": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.7386
+   },
+   "pilao": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.7435
+   },
+   "cerca_aroeira": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.4657
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.8385
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.7797
+   },
+   "pilao_b": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.7705
+   },
+   "cerca_aroeira_esp": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.4786
+   },
+   "icone_arroz": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.619
+   },
+   "icone_cagaita": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.7203
+   },
+   "icone_cana": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.6259
+   },
+   "icone_facao": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.5895
+   },
+   "icone_farinha": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.7717
+   },
+   "icone_melancia": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.7588
+   },
+   "icone_pequi": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.7358
+   },
+   "icone_rapadura": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.7728
+   },
+   "farmer_idle_0": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.6263
+   },
+   "icone_feijao": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.694
+   },
+   "icone_soja": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.7334
+   },
+   "icone_capim": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.7418
+   }
+  }
+ },
+ "7fd45b49db7d": {
+  "model": "sdxl-pad",
+  "base": "crops",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 72750,
+  "sx": 6.074074074074074,
+  "cells": {
+   "cultivo_arroz": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.7453
+   },
+   "cultivo_feijao": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.6958
+   }
+  }
+ },
+ "e70cf8f370fa": {
+  "model": "sdxl-pad",
+  "base": "crops",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 107070,
+  "sx": 6.074074074074074,
+  "cells": {
+   "cultivo_arroz": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.7467
+   },
+   "cultivo_feijao": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.6633
+   }
+  }
+ },
+ "9f13a9b1ef7d": {
+  "model": "sdxl-pixel-iso",
+  "base": "t3",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 110120,
+  "sx": 6.700507614213198,
+  "cells": {
+   "arvore_baru_maduro": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.7703
+   },
+   "arvore_cagaita_florida": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.6216
+   }
+  }
+ },
+ "d296dab58c90": {
+  "model": "moss-pixel",
+  "base": "terrain",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 263951,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9063
+   },
+   "terreno_01_grama": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9078
+   },
+   "terreno_02_grama": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9041
+   },
+   "terreno_03_grama": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9019
+   },
+   "terreno_04_trilha": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9271
+   },
+   "terreno_05_trilha": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9311
+   },
+   "terreno_06_trilha": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9299
+   },
+   "terreno_07_trilha": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9149
+   },
+   "terreno_08_palha": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9144
+   },
+   "terreno_09_palha": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9222
+   },
+   "terreno_10_umida": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9065
+   },
+   "terreno_11_umida": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9141
+   },
+   "terreno_12_cascalho": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9083
+   },
+   "terreno_13_cascalho": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9272
+   },
+   "terreno_14_arado": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9338
+   },
+   "terreno_15_arado_molhado": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.9489
+   }
+  }
+ },
+ "c2b2276380db": {
+  "model": "moss-pixel",
+  "base": "terrain",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 249049,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.9147
+   },
+   "terreno_01_grama": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.9146
+   },
+   "terreno_02_grama": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.9111
+   },
+   "terreno_03_grama": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.9106
+   },
+   "terreno_04_trilha": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.9265
+   },
+   "terreno_05_trilha": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.931
+   },
+   "terreno_06_trilha": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.9327
+   },
+   "terreno_07_trilha": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.9205
+   },
+   "terreno_08_palha": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.9294
+   },
+   "terreno_09_palha": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.9194
+   },
+   "terreno_10_umida": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.9215
+   },
+   "terreno_11_umida": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.9225
+   },
+   "terreno_12_cascalho": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.8956
+   },
+   "terreno_13_cascalho": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.9033
+   },
+   "terreno_14_arado": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.9315
+   },
+   "terreno_15_arado_molhado": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.9517
+   }
+  }
+ },
+ "2f631110f0ce": {
+  "model": "moss-refiner",
+  "base": "obj",
+  "dn": 0.8,
+  "seed": 1001,
+  "ms": 204214,
+  "sx": 6.6,
+  "cells": {
+   "carro_de_boi": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.5666
+   },
+   "moinho": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.7711
+   },
+   "carroca_4rodas": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.5841
+   },
+   "moinho_agua": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.7457
+   }
+  }
+ },
+ "108801eb4dc7": {
+  "model": "sdxl-pixel",
+  "base": "terrain",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 119954,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9565
+   },
+   "terreno_01_grama": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9567
+   },
+   "terreno_02_grama": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9578
+   },
+   "terreno_03_grama": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9572
+   },
+   "terreno_04_trilha": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9517
+   },
+   "terreno_05_trilha": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9579
+   },
+   "terreno_06_trilha": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9618
+   },
+   "terreno_07_trilha": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9522
+   },
+   "terreno_08_palha": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9526
+   },
+   "terreno_09_palha": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9564
+   },
+   "terreno_10_umida": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9419
+   },
+   "terreno_11_umida": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9413
+   },
+   "terreno_12_cascalho": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9407
+   },
+   "terreno_13_cascalho": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9538
+   },
+   "terreno_14_arado": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9426
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.9512
+   }
+  }
+ },
+ "8252b59e12b4": {
+  "model": "sdxl-pixel",
+  "base": "terrain",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 111908,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9568
+   },
+   "terreno_01_grama": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9577
+   },
+   "terreno_02_grama": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9589
+   },
+   "terreno_03_grama": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9595
+   },
+   "terreno_04_trilha": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.945
+   },
+   "terreno_05_trilha": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9509
+   },
+   "terreno_06_trilha": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9516
+   },
+   "terreno_07_trilha": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9421
+   },
+   "terreno_08_palha": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9567
+   },
+   "terreno_09_palha": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9613
+   },
+   "terreno_10_umida": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9557
+   },
+   "terreno_11_umida": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9539
+   },
+   "terreno_12_cascalho": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9435
+   },
+   "terreno_13_cascalho": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9598
+   },
+   "terreno_14_arado": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9466
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.9531
+   }
+  }
+ },
+ "28381ffec147": {
+  "model": "sdxl-pixel-iso",
+  "base": "t2",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 111149,
+  "sx": 7.0880829015544045,
+  "cells": {
+   "arvore_paineira_florida": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7425
+   },
+   "arvore_ipe_amarelo_seco": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.544
+   }
+  }
+ },
+ "9c2628c27e23": {
+  "model": "sdxl-pixel-iso",
+  "base": "crops",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 108480,
+  "sx": 6.074074074074074,
+  "cells": {
+   "cultivo_arroz": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7211
+   },
+   "cultivo_feijao": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.6703
+   }
+  }
+ },
+ "1a2ba9c1e576": {
+  "model": "sdxl-pixel-iso",
+  "base": "t1",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 116806,
+  "sx": 7.010752688172043,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7981
+   },
+   "arvore_pequi_maduro": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.7973
+   }
+  }
+ },
+ "0b4c9709fab9": {
+  "model": "sdxl-pixel-iso",
+  "base": "t1",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 118308,
+  "sx": 7.010752688172043,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.7829
+   },
+   "arvore_pequi_maduro": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.7941
+   }
+  }
+ },
+ "710405727b36": {
+  "model": "sdxl-pixel-iso",
+  "base": "t2",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 107845,
+  "sx": 7.0880829015544045,
+  "cells": {
+   "arvore_paineira_florida": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.6429
+   },
+   "arvore_ipe_amarelo_seco": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.4008
+   }
+  }
+ },
+ "3f9c7d2a0070": {
+  "model": "flux-pixel",
+  "base": "obj",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 493321,
+  "sx": 6.6,
+  "cells": {
+   "carro_de_boi": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.8178
+   },
+   "moinho": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.8439
+   },
+   "carroca_4rodas": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.8399
+   },
+   "moinho_agua": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.8523
+   }
+  }
+ },
+ "e40c277b3ab5": {
+  "model": "sd15-pixel",
+  "base": "t1",
+  "dn": 0.45,
+  "seed": 1001,
+  "ms": 49794,
+  "sx": 3.5268817204301075,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.7219
+   },
+   "arvore_pequi_maduro": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.6792
+   }
+  }
+ },
+ "71ad576b208e": {
+  "model": "sd15-pixel",
+  "base": "t1",
+  "dn": 0.45,
+  "seed": 1002,
+  "ms": 34591,
+  "sx": 3.5268817204301075,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.7046
+   },
+   "arvore_pequi_maduro": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.6863
+   }
+  }
+ },
+ "011754f7fa5e": {
+  "model": "moss-refiner",
+  "base": "terrain",
+  "dn": 0.8,
+  "seed": 1001,
+  "ms": 235372,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.8992
+   },
+   "terreno_01_grama": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.9021
+   },
+   "terreno_02_grama": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.8968
+   },
+   "terreno_03_grama": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.9014
+   },
+   "terreno_04_trilha": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.8744
+   },
+   "terreno_05_trilha": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.8784
+   },
+   "terreno_06_trilha": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.8805
+   },
+   "terreno_07_trilha": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.8662
+   },
+   "terreno_08_palha": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.8614
+   },
+   "terreno_09_palha": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.8661
+   },
+   "terreno_10_umida": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.849
+   },
+   "terreno_11_umida": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.8515
+   },
+   "terreno_12_cascalho": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.8552
+   },
+   "terreno_13_cascalho": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.8723
+   },
+   "terreno_14_arado": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.873
+   },
+   "terreno_15_arado_molhado": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.8861
+   }
+  }
+ },
+ "709aabb618f5": {
+  "model": "sdxl-pixel",
+  "base": "crops",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 108831,
+  "sx": 6.074074074074074,
+  "cells": {
+   "cultivo_arroz": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.5463
+   },
+   "cultivo_feijao": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.5267
+   }
+  }
+ },
+ "7fdbf6ecdd8a": {
+  "model": "sdxl-pixel",
+  "base": "t1",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 152864,
+  "sx": 7.010752688172043,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.7972
+   },
+   "arvore_pequi_maduro": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.8074
+   }
+  }
+ },
+ "d0873afad01f": {
+  "model": "sdxl-pixel",
+  "base": "t1",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 120912,
+  "sx": 7.010752688172043,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.7859
+   },
+   "arvore_pequi_maduro": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.7957
+   }
+  }
+ },
+ "d4e92db9cca3": {
+  "model": "sdxl-pad",
+  "base": "t3",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 154467,
+  "sx": 6.700507614213198,
+  "cells": {
+   "arvore_baru_maduro": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.8479
+   },
+   "arvore_cagaita_florida": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.6744
+   }
+  }
+ },
+ "b661702087cc": {
+  "model": "sdxl-pad",
+  "base": "t3",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 127802,
+  "sx": 6.700507614213198,
+  "cells": {
+   "arvore_baru_maduro": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.8438
+   },
+   "arvore_cagaita_florida": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.6857
+   }
+  }
+ },
+ "b40a578f38ef": {
+  "model": "flux-pixel",
+  "base": "terrain",
+  "dn": 0.45,
+  "seed": 1001,
+  "ms": 503395,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.9686
+   },
+   "terreno_01_grama": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.9695
+   },
+   "terreno_02_grama": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.9706
+   },
+   "terreno_03_grama": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.9696
+   },
+   "terreno_04_trilha": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.9661
+   },
+   "terreno_05_trilha": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.9756
+   },
+   "terreno_06_trilha": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.975
+   },
+   "terreno_07_trilha": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.9753
+   },
+   "terreno_08_palha": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.9623
+   },
+   "terreno_09_palha": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.9645
+   },
+   "terreno_10_umida": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.9659
+   },
+   "terreno_11_umida": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.964
+   },
+   "terreno_12_cascalho": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.947
+   },
+   "terreno_13_cascalho": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.9628
+   },
+   "terreno_14_arado": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.9507
+   },
+   "terreno_15_arado_molhado": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.9538
+   }
+  }
+ },
+ "cf025cea3f97": {
+  "model": "flux-pixel",
+  "base": "t1",
+  "dn": 0.45,
+  "seed": 1001,
+  "ms": 526207,
+  "sx": 7.053763440860215,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.7997
+   },
+   "arvore_pequi_maduro": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.793
+   }
+  }
+ },
+ "43ebeb28965e": {
+  "model": "sd15-pixel",
+  "base": "t3",
+  "dn": 0.45,
+  "seed": 1001,
+  "ms": 9464,
+  "sx": 3.3299492385786804,
+  "cells": {
+   "arvore_baru_maduro": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.767
+   },
+   "arvore_cagaita_florida": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.6038
+   }
+  }
+ },
+ "385711816c28": {
+  "model": "sd15-pixel",
+  "base": "t3",
+  "dn": 0.45,
+  "seed": 1002,
+  "ms": 9303,
+  "sx": 3.3299492385786804,
+  "cells": {
+   "arvore_baru_maduro": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.7651
+   },
+   "arvore_cagaita_florida": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.6155
+   }
+  }
+ },
+ "2005e8f5f7c9": {
+  "model": "sd15-pixel",
+  "base": "crops",
+  "dn": 0.45,
+  "seed": 1001,
+  "ms": 9320,
+  "sx": 3.037037037037037,
+  "cells": {
+   "cultivo_arroz": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.5612
+   },
+   "cultivo_feijao": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.4197
+   }
+  }
+ },
+ "985eb6fe8f07": {
+  "model": "sd15-pixel",
+  "base": "crops",
+  "dn": 0.45,
+  "seed": 1002,
+  "ms": 9307,
+  "sx": 3.037037037037037,
+  "cells": {
+   "cultivo_arroz": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.5488
+   },
+   "cultivo_feijao": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.4181
+   }
+  }
+ },
+ "7fd7d1b7c6c4": {
+  "model": "moss-pixel",
+  "base": "t2",
+  "dn": 0.7,
+  "seed": 1001,
+  "ms": 247850,
+  "sx": 7.129533678756476,
+  "cells": {
+   "arvore_paineira_florida": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.4857
+   },
+   "arvore_ipe_amarelo_seco": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.2106
+   }
+  }
+ },
+ "f50a201f656b": {
+  "model": "flux",
+  "base": "t1",
+  "dn": 0.72,
+  "seed": 1001,
+  "ms": 680180,
+  "sx": 7.053763440860215,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "flux_d72_1001",
+    "score": 0.6876
+   },
+   "arvore_pequi_maduro": {
+    "file": "flux_d72_1001",
+    "score": 0.6986
+   }
+  }
+ },
+ "2f75e68e41bb": {
+  "model": "sdxl-pad",
+  "base": "t2",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 168331,
+  "sx": 7.0880829015544045,
+  "cells": {
+   "arvore_paineira_florida": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.7535
+   },
+   "arvore_ipe_amarelo_seco": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.5385
+   }
+  }
+ },
+ "2bb1c6f6ea42": {
+  "model": "sdxl-pad",
+  "base": "t2",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 104052,
+  "sx": 7.0880829015544045,
+  "cells": {
+   "arvore_paineira_florida": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.7687
+   },
+   "arvore_ipe_amarelo_seco": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.5245
+   }
+  }
+ },
+ "82f824d49f97": {
+  "model": "sd15-pixel",
+  "base": "t2",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 16686,
+  "sx": 3.564766839378238,
+  "cells": {
+   "arvore_paineira_florida": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.5169
+   },
+   "arvore_ipe_amarelo_seco": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.117
+   }
+  }
+ },
+ "e6ef0b55d2dc": {
+  "model": "sd15-pixel",
+  "base": "t2",
+  "dn": 0.6,
+  "seed": 1002,
+  "ms": 9702,
+  "sx": 3.564766839378238,
+  "cells": {
+   "arvore_paineira_florida": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.5326
+   },
+   "arvore_ipe_amarelo_seco": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.1037
+   }
+  }
+ },
+ "608b6862875e": {
+  "model": "flux-pixel",
+  "base": "terrain",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 507722,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9573
+   },
+   "terreno_01_grama": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9594
+   },
+   "terreno_02_grama": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9604
+   },
+   "terreno_03_grama": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9592
+   },
+   "terreno_04_trilha": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9533
+   },
+   "terreno_05_trilha": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9626
+   },
+   "terreno_06_trilha": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9634
+   },
+   "terreno_07_trilha": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9624
+   },
+   "terreno_08_palha": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9493
+   },
+   "terreno_09_palha": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9519
+   },
+   "terreno_10_umida": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9593
+   },
+   "terreno_11_umida": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9589
+   },
+   "terreno_12_cascalho": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9383
+   },
+   "terreno_13_cascalho": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.956
+   },
+   "terreno_14_arado": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9446
+   },
+   "terreno_15_arado_molhado": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.9454
+   }
+  }
+ },
+ "148fc4982438": {
+  "model": "sd15-pixel",
+  "base": "t1",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 11187,
+  "sx": 3.5268817204301075,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.6134
+   },
+   "arvore_pequi_maduro": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.5787
+   }
+  }
+ },
+ "24635bd9c100": {
+  "model": "sd15-pixel",
+  "base": "t1",
+  "dn": 0.6,
+  "seed": 1002,
+  "ms": 10332,
+  "sx": 3.5268817204301075,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.6041
+   },
+   "arvore_pequi_maduro": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.6168
+   }
+  }
+ },
+ "1398558a8644": {
+  "model": "flux",
+  "base": "terrain",
+  "dn": 0.72,
+  "seed": 1001,
+  "ms": 446935,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "flux_d72_1001",
+    "score": 0.9497
+   },
+   "terreno_01_grama": {
+    "file": "flux_d72_1001",
+    "score": 0.9527
+   },
+   "terreno_02_grama": {
+    "file": "flux_d72_1001",
+    "score": 0.9528
+   },
+   "terreno_03_grama": {
+    "file": "flux_d72_1001",
+    "score": 0.9515
+   },
+   "terreno_04_trilha": {
+    "file": "flux_d72_1001",
+    "score": 0.9414
+   },
+   "terreno_05_trilha": {
+    "file": "flux_d72_1001",
+    "score": 0.9532
+   },
+   "terreno_06_trilha": {
+    "file": "flux_d72_1001",
+    "score": 0.9533
+   },
+   "terreno_07_trilha": {
+    "file": "flux_d72_1001",
+    "score": 0.951
+   },
+   "terreno_08_palha": {
+    "file": "flux_d72_1001",
+    "score": 0.9441
+   },
+   "terreno_09_palha": {
+    "file": "flux_d72_1001",
+    "score": 0.9453
+   },
+   "terreno_10_umida": {
+    "file": "flux_d72_1001",
+    "score": 0.9526
+   },
+   "terreno_11_umida": {
+    "file": "flux_d72_1001",
+    "score": 0.952
+   },
+   "terreno_12_cascalho": {
+    "file": "flux_d72_1001",
+    "score": 0.9263
+   },
+   "terreno_13_cascalho": {
+    "file": "flux_d72_1001",
+    "score": 0.9423
+   },
+   "terreno_14_arado": {
+    "file": "flux_d72_1001",
+    "score": 0.9369
+   },
+   "terreno_15_arado_molhado": {
+    "file": "flux_d72_1001",
+    "score": 0.9353
+   }
+  }
+ },
+ "739031e35aef": {
+  "model": "sd15-pixel",
+  "base": "t2",
+  "dn": 0.45,
+  "seed": 1001,
+  "ms": 9383,
+  "sx": 3.564766839378238,
+  "cells": {
+   "arvore_paineira_florida": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.63
+   },
+   "arvore_ipe_amarelo_seco": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.3219
+   }
+  }
+ },
+ "9a39ffbe9f63": {
+  "model": "sd15-pixel",
+  "base": "t2",
+  "dn": 0.45,
+  "seed": 1002,
+  "ms": 9132,
+  "sx": 3.564766839378238,
+  "cells": {
+   "arvore_paineira_florida": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.6033
+   },
+   "arvore_ipe_amarelo_seco": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.3013
+   }
+  }
+ },
+ "848c2112cc45": {
+  "model": "moss-pixel",
+  "base": "t2",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 286222,
+  "sx": 7.129533678756476,
+  "cells": {
+   "arvore_paineira_florida": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.6996
+   },
+   "arvore_ipe_amarelo_seco": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.5398
+   }
+  }
+ },
+ "f4fdd7530db3": {
+  "model": "sdxl-pad",
+  "base": "t1",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 162538,
+  "sx": 7.010752688172043,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.8156
+   },
+   "arvore_pequi_maduro": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.808
+   }
+  }
+ },
+ "8c9f43e411ba": {
+  "model": "sdxl-pad",
+  "base": "t1",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 156623,
+  "sx": 7.010752688172043,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.7795
+   },
+   "arvore_pequi_maduro": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.7996
+   }
+  }
+ },
+ "d0673a93910a": {
+  "model": "moss-pixel",
+  "base": "small",
+  "dn": 0.7,
+  "seed": 1001,
+  "ms": 245778,
+  "sx": 4.9361702127659575,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.6197
+   },
+   "cupinzeiro_baixo": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.6114
+   },
+   "pilao": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.5106
+   },
+   "cerca_aroeira": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.2577
+   },
+   "cupinzeiro_alto_c": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.6287
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.6396
+   },
+   "pilao_b": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.5286
+   },
+   "cerca_aroeira_esp": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.2037
+   },
+   "icone_arroz": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.4614
+   },
+   "icone_cagaita": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.3582
+   },
+   "icone_cana": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.2135
+   },
+   "icone_facao": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.4352
+   },
+   "icone_farinha": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.7043
+   },
+   "icone_melancia": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.6327
+   },
+   "icone_pequi": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.5017
+   },
+   "icone_rapadura": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.6851
+   },
+   "farmer_idle_0": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.1334
+   },
+   "icone_feijao": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.2698
+   },
+   "icone_soja": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.4155
+   },
+   "icone_capim": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.4809
+   }
+  }
+ },
+ "3e6a791a4d93": {
+  "model": "moss-pixel",
+  "base": "small",
+  "dn": 0.7,
+  "seed": 1002,
+  "ms": 277609,
+  "sx": 4.9361702127659575,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.6176
+   },
+   "cupinzeiro_baixo": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.4701
+   },
+   "pilao": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.5646
+   },
+   "cerca_aroeira": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.2095
+   },
+   "cupinzeiro_alto_c": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.5499
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.6726
+   },
+   "pilao_b": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.4964
+   },
+   "cerca_aroeira_esp": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.2201
+   },
+   "icone_arroz": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.4275
+   },
+   "icone_cagaita": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.2142
+   },
+   "icone_cana": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.1934
+   },
+   "icone_facao": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.4907
+   },
+   "icone_farinha": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.6535
+   },
+   "icone_melancia": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.6487
+   },
+   "icone_pequi": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.4977
+   },
+   "icone_rapadura": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.747
+   },
+   "farmer_idle_0": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.2716
+   },
+   "icone_feijao": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.23
+   },
+   "icone_soja": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.3074
+   },
+   "icone_capim": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.6251
+   }
+  }
+ },
+ "4a6710f1ea00": {
+  "model": "sdxl-pixel",
+  "base": "t1",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 148471,
+  "sx": 7.010752688172043,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.7145
+   },
+   "arvore_pequi_maduro": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.704
+   }
+  }
+ },
+ "f2ace92229d4": {
+  "model": "sdxl-pixel",
+  "base": "t1",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 143577,
+  "sx": 7.010752688172043,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.6979
+   },
+   "arvore_pequi_maduro": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.7116
+   }
+  }
+ },
+ "c3093ec7eca9": {
+  "model": "sdxl-sai",
+  "base": "t1",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 126528,
+  "sx": 7.010752688172043,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.7629
+   },
+   "arvore_pequi_maduro": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.7694
+   }
+  }
+ },
+ "2aa61207bbf0": {
+  "model": "sdxl-pad",
+  "base": "obj",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 127455,
+  "sx": 6.55,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.7605
+   },
+   "moinho": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.8305
+   },
+   "carroca_4rodas": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.799
+   },
+   "moinho_agua": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.8104
+   }
+  }
+ },
+ "b3483690cb36": {
+  "model": "sdxl-pad",
+  "base": "obj",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 123350,
+  "sx": 6.55,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.8103
+   },
+   "moinho": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.8284
+   },
+   "carroca_4rodas": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.8074
+   },
+   "moinho_agua": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.7854
+   }
+  }
+ },
+ "305c66bdce8b": {
+  "model": "sdxl-pad",
+  "base": "t1",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 139921,
+  "sx": 7.010752688172043,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.7395
+   },
+   "arvore_pequi_maduro": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.7247
+   }
+  }
+ },
+ "15f53fb2ad8c": {
+  "model": "sdxl-pad",
+  "base": "t1",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 109789,
+  "sx": 7.010752688172043,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.7184
+   },
+   "arvore_pequi_maduro": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.7147
+   }
+  }
+ },
+ "02f91fb08324": {
+  "model": "moss-sentence",
+  "base": "t1",
+  "dn": 0.8,
+  "seed": 1001,
+  "ms": 232078,
+  "sx": 7.053763440860215,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.5344
+   },
+   "arvore_pequi_maduro": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.5641
+   }
+  }
+ },
+ "0561adf72503": {
+  "model": "sdxl-pixel",
+  "base": "t3",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 112756,
+  "sx": 6.700507614213198,
+  "cells": {
+   "arvore_baru_maduro": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.7801
+   },
+   "arvore_cagaita_florida": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.606
+   }
+  }
+ },
+ "5267c1dd1e12": {
+  "model": "sdxl-pad",
+  "base": "small",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 166378,
+  "sx": 4.8936170212765955,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.8352
+   },
+   "cupinzeiro_baixo": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.7766
+   },
+   "pilao": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.7906
+   },
+   "cerca_aroeira": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.3685
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.8465
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.8208
+   },
+   "pilao_b": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.7731
+   },
+   "cerca_aroeira_esp": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.4159
+   },
+   "icone_arroz": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.6331
+   },
+   "icone_cagaita": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.7297
+   },
+   "icone_cana": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.5715
+   },
+   "icone_facao": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.5717
+   },
+   "icone_farinha": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.7829
+   },
+   "icone_melancia": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.7911
+   },
+   "icone_pequi": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.747
+   },
+   "icone_rapadura": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.7751
+   },
+   "farmer_idle_0": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.5392
+   },
+   "icone_feijao": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.7369
+   },
+   "icone_soja": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.7553
+   },
+   "icone_capim": {
+    "file": "sdxl-pad_d50_1001",
+    "score": 0.7039
+   }
+  }
+ },
+ "eca67f4133b8": {
+  "model": "sdxl-pad",
+  "base": "small",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 149018,
+  "sx": 4.8936170212765955,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.8248
+   },
+   "cupinzeiro_baixo": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.7746
+   },
+   "pilao": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.7633
+   },
+   "cerca_aroeira": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.3806
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.829
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.7998
+   },
+   "pilao_b": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.7818
+   },
+   "cerca_aroeira_esp": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.49
+   },
+   "icone_arroz": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.6275
+   },
+   "icone_cagaita": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.7276
+   },
+   "icone_cana": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.6309
+   },
+   "icone_facao": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.6517
+   },
+   "icone_farinha": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.8041
+   },
+   "icone_melancia": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.7571
+   },
+   "icone_pequi": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.7623
+   },
+   "icone_rapadura": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.7584
+   },
+   "farmer_idle_0": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.6247
+   },
+   "icone_feijao": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.6951
+   },
+   "icone_soja": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.7301
+   },
+   "icone_capim": {
+    "file": "sdxl-pad_d50_1002",
+    "score": 0.7051
+   }
+  }
+ },
+ "3df37e700b49": {
+  "model": "sdxl-pixel",
+  "base": "obj",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 126318,
+  "sx": 6.55,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.7872
+   },
+   "moinho": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.8392
+   },
+   "carroca_4rodas": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.7962
+   },
+   "moinho_agua": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.8132
+   }
+  }
+ },
+ "83316b75db70": {
+  "model": "sdxl-pixel",
+  "base": "obj",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 127260,
+  "sx": 6.55,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.7951
+   },
+   "moinho": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.8274
+   },
+   "carroca_4rodas": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.79
+   },
+   "moinho_agua": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.8142
+   }
+  }
+ },
+ "393217adba4d": {
+  "model": "sdxl-pixel-iso",
+  "base": "terrain",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 113670,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.8765
+   },
+   "terreno_01_grama": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.872
+   },
+   "terreno_02_grama": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.8753
+   },
+   "terreno_03_grama": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.8737
+   },
+   "terreno_04_trilha": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.9214
+   },
+   "terreno_05_trilha": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.9281
+   },
+   "terreno_06_trilha": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.9316
+   },
+   "terreno_07_trilha": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.9208
+   },
+   "terreno_08_palha": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.8746
+   },
+   "terreno_09_palha": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.8741
+   },
+   "terreno_10_umida": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.8891
+   },
+   "terreno_11_umida": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.8901
+   },
+   "terreno_12_cascalho": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.9062
+   },
+   "terreno_13_cascalho": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.9148
+   },
+   "terreno_14_arado": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.9293
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.9278
+   }
+  }
+ },
+ "a83afa522dcc": {
+  "model": "sdxl-pixel-iso",
+  "base": "terrain",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 110412,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.8989
+   },
+   "terreno_01_grama": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.8988
+   },
+   "terreno_02_grama": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.8974
+   },
+   "terreno_03_grama": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.8984
+   },
+   "terreno_04_trilha": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.9187
+   },
+   "terreno_05_trilha": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.9206
+   },
+   "terreno_06_trilha": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.9241
+   },
+   "terreno_07_trilha": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.9142
+   },
+   "terreno_08_palha": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.8694
+   },
+   "terreno_09_palha": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.8661
+   },
+   "terreno_10_umida": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.9183
+   },
+   "terreno_11_umida": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.9173
+   },
+   "terreno_12_cascalho": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.9078
+   },
+   "terreno_13_cascalho": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.9177
+   },
+   "terreno_14_arado": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.9226
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sdxl-pixel-iso_d65_1002",
+    "score": 0.9323
+   }
+  }
+ },
+ "d282fe477aab": {
+  "model": "sdxl-pixel",
+  "base": "crops",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 113635,
+  "sx": 6.074074074074074,
+  "cells": {
+   "cultivo_arroz": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.7245
+   },
+   "cultivo_feijao": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.6675
+   }
+  }
+ },
+ "f33a1b5b6256": {
+  "model": "sdxl-sai",
+  "base": "small",
+  "dn": 0.75,
+  "seed": 1001,
+  "ms": 112690,
+  "sx": 4.8936170212765955,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.7173
+   },
+   "cupinzeiro_baixo": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.6401
+   },
+   "pilao": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.5517
+   },
+   "cerca_aroeira": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.4156
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.6813
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.7922
+   },
+   "pilao_b": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.5417
+   },
+   "cerca_aroeira_esp": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.3832
+   },
+   "icone_arroz": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.5616
+   },
+   "icone_cagaita": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.45
+   },
+   "icone_cana": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.4338
+   },
+   "icone_facao": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.2341
+   },
+   "icone_farinha": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.4428
+   },
+   "icone_melancia": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.6175
+   },
+   "icone_pequi": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.4298
+   },
+   "icone_rapadura": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.6241
+   },
+   "farmer_idle_0": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.1403
+   },
+   "icone_feijao": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.4384
+   },
+   "icone_soja": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.5145
+   },
+   "icone_capim": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.6341
+   }
+  }
+ },
+ "ee94786c7c06": {
+  "model": "moss-pixel",
+  "base": "t1",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 483466,
+  "sx": 7.053763440860215,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.7339
+   },
+   "arvore_pequi_maduro": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.7359
+   }
+  }
+ },
+ "1c6e5c0b136c": {
+  "model": "moss-pixel",
+  "base": "t1",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 457473,
+  "sx": 7.053763440860215,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.7342
+   },
+   "arvore_pequi_maduro": {
+    "file": "moss-pixel_d50_1002",
+    "score": 0.7287
+   }
+  }
+ },
+ "d9a8e6d16739": {
+  "model": "sdxl-pad",
+  "base": "t2",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 93343,
+  "sx": 7.0880829015544045,
+  "cells": {
+   "arvore_paineira_florida": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.6476
+   },
+   "arvore_ipe_amarelo_seco": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.4055
+   }
+  }
+ },
+ "150f8d76e264": {
+  "model": "sdxl-pad",
+  "base": "t2",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 116718,
+  "sx": 7.0880829015544045,
+  "cells": {
+   "arvore_paineira_florida": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.6495
+   },
+   "arvore_ipe_amarelo_seco": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.3434
+   }
+  }
+ },
+ "fee24b2310e3": {
+  "model": "flux-pixel",
+  "base": "small",
+  "dn": 0.45,
+  "seed": 1001,
+  "ms": 564204,
+  "sx": 4.9361702127659575,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.7807
+   },
+   "cupinzeiro_baixo": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.7862
+   },
+   "pilao": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.7557
+   },
+   "cerca_aroeira": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.4956
+   },
+   "cupinzeiro_alto_c": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.757
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.7975
+   },
+   "pilao_b": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.806
+   },
+   "cerca_aroeira_esp": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.5417
+   },
+   "icone_arroz": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.5867
+   },
+   "icone_cagaita": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.7207
+   },
+   "icone_cana": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.6158
+   },
+   "icone_facao": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.6674
+   },
+   "icone_farinha": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.7872
+   },
+   "icone_melancia": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.7458
+   },
+   "icone_pequi": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.7597
+   },
+   "icone_rapadura": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.7815
+   },
+   "farmer_idle_0": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.488
+   },
+   "icone_feijao": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.6941
+   },
+   "icone_soja": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.6929
+   },
+   "icone_capim": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.7245
+   }
+  }
+ },
+ "5bb391294a6e": {
+  "model": "moss-iso",
+  "base": "terrain",
+  "dn": 0.8,
+  "seed": 1001,
+  "ms": 218706,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.86
+   },
+   "terreno_01_grama": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.8608
+   },
+   "terreno_02_grama": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.8598
+   },
+   "terreno_03_grama": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.898
+   },
+   "terreno_04_trilha": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.8953
+   },
+   "terreno_05_trilha": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.899
+   },
+   "terreno_06_trilha": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.8995
+   },
+   "terreno_07_trilha": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.8875
+   },
+   "terreno_08_palha": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.8885
+   },
+   "terreno_09_palha": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.8909
+   },
+   "terreno_10_umida": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.8812
+   },
+   "terreno_11_umida": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.8705
+   },
+   "terreno_12_cascalho": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.8847
+   },
+   "terreno_13_cascalho": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.8542
+   },
+   "terreno_14_arado": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.9115
+   },
+   "terreno_15_arado_molhado": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.881
+   }
+  }
+ },
+ "91595492f057": {
+  "model": "moss-iso",
+  "base": "terrain",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 251811,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9253
+   },
+   "terreno_01_grama": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9275
+   },
+   "terreno_02_grama": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9267
+   },
+   "terreno_03_grama": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9268
+   },
+   "terreno_04_trilha": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9268
+   },
+   "terreno_05_trilha": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9327
+   },
+   "terreno_06_trilha": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9342
+   },
+   "terreno_07_trilha": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9219
+   },
+   "terreno_08_palha": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9049
+   },
+   "terreno_09_palha": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9138
+   },
+   "terreno_10_umida": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9093
+   },
+   "terreno_11_umida": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9124
+   },
+   "terreno_12_cascalho": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.91
+   },
+   "terreno_13_cascalho": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9305
+   },
+   "terreno_14_arado": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9376
+   },
+   "terreno_15_arado_molhado": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.9458
+   }
+  }
+ },
+ "ac383d5a5ade": {
+  "model": "sdxl-pixel",
+  "base": "t3",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 110926,
+  "sx": 6.700507614213198,
+  "cells": {
+   "arvore_baru_maduro": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.8424
+   },
+   "arvore_cagaita_florida": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.6962
+   }
+  }
+ },
+ "a42f1c5c5062": {
+  "model": "sdxl-pixel-iso",
+  "base": "obj",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 121907,
+  "sx": 6.55,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.8368
+   },
+   "moinho": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.8656
+   },
+   "carroca_4rodas": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.8579
+   },
+   "moinho_agua": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.8599
+   }
+  }
+ },
+ "c9743514a748": {
+  "model": "sdxl-pixel-iso",
+  "base": "obj",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 113571,
+  "sx": 6.55,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.8525
+   },
+   "moinho": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.8662
+   },
+   "carroca_4rodas": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.8536
+   },
+   "moinho_agua": {
+    "file": "sdxl-pixel-iso_d50_1002",
+    "score": 0.8713
+   }
+  }
+ },
+ "c0260b1d41b4": {
+  "model": "moss-pixel",
+  "base": "t3",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 210910,
+  "sx": 6.659898477157361,
+  "cells": {
+   "arvore_baru_maduro": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.7786
+   },
+   "arvore_cagaita_florida": {
+    "file": "moss-pixel_d50_1001",
+    "score": 0.6633
+   }
+  }
+ },
+ "fa68d59d96f8": {
+  "model": "sdxl-pad",
+  "base": "crops",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 122378,
+  "sx": 6.074074074074074,
+  "cells": {
+   "cultivo_arroz": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.5853
+   },
+   "cultivo_feijao": {
+    "file": "sdxl-pad_d65_1001",
+    "score": 0.5502
+   }
+  }
+ },
+ "524057b6b9f3": {
+  "model": "sdxl-pad",
+  "base": "crops",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 120879,
+  "sx": 6.074074074074074,
+  "cells": {
+   "cultivo_arroz": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.5942
+   },
+   "cultivo_feijao": {
+    "file": "sdxl-pad_d65_1002",
+    "score": 0.5229
+   }
+  }
+ },
+ "1bd333435591": {
+  "model": "sdxl-pixel",
+  "base": "obj",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 134170,
+  "sx": 6.55,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.8416
+   },
+   "moinho": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.8683
+   },
+   "carroca_4rodas": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.861
+   },
+   "moinho_agua": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.8631
+   }
+  }
+ },
+ "f942687c916f": {
+  "model": "sdxl-pixel",
+  "base": "obj",
+  "dn": 0.5,
+  "seed": 1002,
+  "ms": 125171,
+  "sx": 6.55,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.8484
+   },
+   "moinho": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.8693
+   },
+   "carroca_4rodas": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.8578
+   },
+   "moinho_agua": {
+    "file": "sdxl-pixel_d50_1002",
+    "score": 0.8674
+   }
+  }
+ },
+ "00fe4dc99063": {
+  "model": "flux-pixel",
+  "base": "small",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 476327,
+  "sx": 4.9361702127659575,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.7219
+   },
+   "cupinzeiro_baixo": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.7017
+   },
+   "pilao": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.6838
+   },
+   "cerca_aroeira": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.4117
+   },
+   "cupinzeiro_alto_c": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.7005
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.7031
+   },
+   "pilao_b": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.7363
+   },
+   "cerca_aroeira_esp": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.5902
+   },
+   "icone_arroz": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.5013
+   },
+   "icone_cagaita": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.6367
+   },
+   "icone_cana": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.5543
+   },
+   "icone_facao": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.5812
+   },
+   "icone_farinha": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.7409
+   },
+   "icone_melancia": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.7087
+   },
+   "icone_pequi": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.6727
+   },
+   "icone_rapadura": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.7336
+   },
+   "farmer_idle_0": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.453
+   },
+   "icone_feijao": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.6268
+   },
+   "icone_soja": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.5993
+   },
+   "icone_capim": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.6242
+   }
+  }
+ },
+ "705dcf72c88b": {
+  "model": "moss-iso",
+  "base": "t1",
+  "dn": 0.8,
+  "seed": 1001,
+  "ms": 250016,
+  "sx": 7.053763440860215,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.54
+   },
+   "arvore_pequi_maduro": {
+    "file": "moss-iso_d80_1001",
+    "score": 0.5603
+   }
+  }
+ },
+ "abb613f265aa": {
+  "model": "moss-sentence",
+  "base": "t1",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 225301,
+  "sx": 7.053763440860215,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.6531
+   },
+   "arvore_pequi_maduro": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.63
+   }
+  }
+ },
+ "a9248ae4c38c": {
+  "model": "moss-pixel",
+  "base": "crops",
+  "dn": 0.7,
+  "seed": 1001,
+  "ms": 233757,
+  "sx": 6.074074074074074,
+  "cells": {
+   "cultivo_arroz": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.4655
+   },
+   "cultivo_feijao": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.3155
+   }
+  }
+ },
+ "ff7e09904fa4": {
+  "model": "sdxl-pixel",
+  "base": "t2",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 122386,
+  "sx": 7.0880829015544045,
+  "cells": {
+   "arvore_paineira_florida": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.7463
+   },
+   "arvore_ipe_amarelo_seco": {
+    "file": "sdxl-pixel_d50_1001",
+    "score": 0.5424
+   }
+  }
+ },
+ "ea50c49b7d92": {
+  "model": "sdxl-sai",
+  "base": "t1",
+  "dn": 0.75,
+  "seed": 1001,
+  "ms": 69568,
+  "sx": 7.010752688172043,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.6849
+   },
+   "arvore_pequi_maduro": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.6326
+   }
+  }
+ },
+ "8fe2a24aa90d": {
+  "model": "moss-refiner",
+  "base": "small",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 212498,
+  "sx": 4.9361702127659575,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.7248
+   },
+   "cupinzeiro_baixo": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.7846
+   },
+   "pilao": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.689
+   },
+   "cerca_aroeira": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.4409
+   },
+   "cupinzeiro_alto_c": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.7347
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.7502
+   },
+   "pilao_b": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.5821
+   },
+   "cerca_aroeira_esp": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.4656
+   },
+   "icone_arroz": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.5272
+   },
+   "icone_cagaita": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.5511
+   },
+   "icone_cana": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.3325
+   },
+   "icone_facao": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.6486
+   },
+   "icone_farinha": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.5887
+   },
+   "icone_melancia": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.7286
+   },
+   "icone_pequi": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.5714
+   },
+   "icone_rapadura": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.706
+   },
+   "farmer_idle_0": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.0677
+   },
+   "icone_feijao": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.2892
+   },
+   "icone_soja": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.554
+   },
+   "icone_capim": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.606
+   }
+  }
+ },
+ "81e2cd71ddb6": {
+  "model": "sdxl-pixel-iso",
+  "base": "t3",
+  "dn": 0.5,
+  "seed": 1001,
+  "ms": 118046,
+  "sx": 6.700507614213198,
+  "cells": {
+   "arvore_baru_maduro": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.8418
+   },
+   "arvore_cagaita_florida": {
+    "file": "sdxl-pixel-iso_d50_1001",
+    "score": 0.6942
+   }
+  }
+ },
+ "06355fb5d402": {
+  "model": "moss-iso",
+  "base": "t1",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 247991,
+  "sx": 7.053763440860215,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.6685
+   },
+   "arvore_pequi_maduro": {
+    "file": "moss-iso_d65_1001",
+    "score": 0.6366
+   }
+  }
+ },
+ "749215d7b3fb": {
+  "model": "moss-refiner",
+  "base": "t1",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 268914,
+  "sx": 7.053763440860215,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.6694
+   },
+   "arvore_pequi_maduro": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.6722
+   }
+  }
+ },
+ "e62d206dd8f0": {
+  "model": "moss-refiner",
+  "base": "terrain",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 183816,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9398
+   },
+   "terreno_01_grama": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9404
+   },
+   "terreno_02_grama": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9429
+   },
+   "terreno_03_grama": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9411
+   },
+   "terreno_04_trilha": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9058
+   },
+   "terreno_05_trilha": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9035
+   },
+   "terreno_06_trilha": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9054
+   },
+   "terreno_07_trilha": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.8911
+   },
+   "terreno_08_palha": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9048
+   },
+   "terreno_09_palha": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9117
+   },
+   "terreno_10_umida": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9078
+   },
+   "terreno_11_umida": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9092
+   },
+   "terreno_12_cascalho": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9039
+   },
+   "terreno_13_cascalho": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9223
+   },
+   "terreno_14_arado": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9214
+   },
+   "terreno_15_arado_molhado": {
+    "file": "moss-refiner_d65_1001",
+    "score": 0.9395
+   }
+  }
+ },
+ "d5e818424e90": {
+  "model": "moss-pixel",
+  "base": "terrain",
+  "dn": 0.7,
+  "seed": 1001,
+  "ms": 257122,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.8434
+   },
+   "terreno_01_grama": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.8438
+   },
+   "terreno_02_grama": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.8374
+   },
+   "terreno_03_grama": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.8385
+   },
+   "terreno_04_trilha": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.8913
+   },
+   "terreno_05_trilha": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.8884
+   },
+   "terreno_06_trilha": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.889
+   },
+   "terreno_07_trilha": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.875
+   },
+   "terreno_08_palha": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.8368
+   },
+   "terreno_09_palha": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.8351
+   },
+   "terreno_10_umida": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.8534
+   },
+   "terreno_11_umida": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.8569
+   },
+   "terreno_12_cascalho": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.8409
+   },
+   "terreno_13_cascalho": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.8538
+   },
+   "terreno_14_arado": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.9023
+   },
+   "terreno_15_arado_molhado": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.9181
+   }
+  }
+ },
+ "8605bcd2284e": {
+  "model": "moss-pixel",
+  "base": "terrain",
+  "dn": 0.7,
+  "seed": 1002,
+  "ms": 248262,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.849
+   },
+   "terreno_01_grama": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.8439
+   },
+   "terreno_02_grama": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.851
+   },
+   "terreno_03_grama": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.8495
+   },
+   "terreno_04_trilha": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.8753
+   },
+   "terreno_05_trilha": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.8674
+   },
+   "terreno_06_trilha": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.8816
+   },
+   "terreno_07_trilha": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.8662
+   },
+   "terreno_08_palha": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.801
+   },
+   "terreno_09_palha": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.7973
+   },
+   "terreno_10_umida": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.8167
+   },
+   "terreno_11_umida": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.8128
+   },
+   "terreno_12_cascalho": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.8195
+   },
+   "terreno_13_cascalho": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.8121
+   },
+   "terreno_14_arado": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.8949
+   },
+   "terreno_15_arado_molhado": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.912
+   }
+  }
+ },
+ "531c254786e9": {
+  "model": "sdxl-pixel",
+  "base": "t2",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 125238,
+  "sx": 7.0880829015544045,
+  "cells": {
+   "arvore_paineira_florida": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.6348
+   },
+   "arvore_ipe_amarelo_seco": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.4063
+   }
+  }
+ },
+ "6f612989afcd": {
+  "model": "moss-sentence",
+  "base": "terrain",
+  "dn": 0.8,
+  "seed": 1001,
+  "ms": 221203,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.9025
+   },
+   "terreno_01_grama": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.9032
+   },
+   "terreno_02_grama": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.904
+   },
+   "terreno_03_grama": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.9031
+   },
+   "terreno_04_trilha": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.9046
+   },
+   "terreno_05_trilha": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.9085
+   },
+   "terreno_06_trilha": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.9107
+   },
+   "terreno_07_trilha": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.8958
+   },
+   "terreno_08_palha": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.8881
+   },
+   "terreno_09_palha": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.8898
+   },
+   "terreno_10_umida": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.8858
+   },
+   "terreno_11_umida": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.8741
+   },
+   "terreno_12_cascalho": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.8605
+   },
+   "terreno_13_cascalho": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.8483
+   },
+   "terreno_14_arado": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.8779
+   },
+   "terreno_15_arado_molhado": {
+    "file": "moss-sentence_d80_1001",
+    "score": 0.8901
+   }
+  }
+ },
+ "8e221feca22b": {
+  "model": "sdxl-sai",
+  "base": "small",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 111899,
+  "sx": 4.8936170212765955,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.8593
+   },
+   "cupinzeiro_baixo": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.7218
+   },
+   "pilao": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.7025
+   },
+   "cerca_aroeira": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.476
+   },
+   "cupinzeiro_alto_c": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.8009
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.7962
+   },
+   "pilao_b": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.7853
+   },
+   "cerca_aroeira_esp": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.4592
+   },
+   "icone_arroz": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.5961
+   },
+   "icone_cagaita": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.6613
+   },
+   "icone_cana": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.5002
+   },
+   "icone_facao": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.4988
+   },
+   "icone_farinha": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.753
+   },
+   "icone_melancia": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.7137
+   },
+   "icone_pequi": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.6743
+   },
+   "icone_rapadura": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.7612
+   },
+   "farmer_idle_0": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.3422
+   },
+   "icone_feijao": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.6094
+   },
+   "icone_soja": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.662
+   },
+   "icone_capim": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.7547
+   }
+  }
+ },
+ "e6299f423ad1": {
+  "model": "sd15-pixel",
+  "base": "obj",
+  "dn": 0.45,
+  "seed": 1001,
+  "ms": 17043,
+  "sx": 3.3,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.7122
+   },
+   "moinho": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.7806
+   },
+   "carroca_4rodas": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.7766
+   },
+   "moinho_agua": {
+    "file": "sd15-pixel_d45_1001",
+    "score": 0.7824
+   }
+  }
+ },
+ "89a4d608f7bf": {
+  "model": "sd15-pixel",
+  "base": "obj",
+  "dn": 0.45,
+  "seed": 1002,
+  "ms": 10240,
+  "sx": 3.3,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.7572
+   },
+   "moinho": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.797
+   },
+   "carroca_4rodas": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.7988
+   },
+   "moinho_agua": {
+    "file": "sd15-pixel_d45_1002",
+    "score": 0.789
+   }
+  }
+ },
+ "43a18945bca8": {
+  "model": "moss-sentence",
+  "base": "terrain",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 245848,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.9258
+   },
+   "terreno_01_grama": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.9278
+   },
+   "terreno_02_grama": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.9268
+   },
+   "terreno_03_grama": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.9265
+   },
+   "terreno_04_trilha": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.9261
+   },
+   "terreno_05_trilha": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.9302
+   },
+   "terreno_06_trilha": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.931
+   },
+   "terreno_07_trilha": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.9194
+   },
+   "terreno_08_palha": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.9089
+   },
+   "terreno_09_palha": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.9137
+   },
+   "terreno_10_umida": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.9128
+   },
+   "terreno_11_umida": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.9252
+   },
+   "terreno_12_cascalho": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.9112
+   },
+   "terreno_13_cascalho": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.931
+   },
+   "terreno_14_arado": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.9382
+   },
+   "terreno_15_arado_molhado": {
+    "file": "moss-sentence_d65_1001",
+    "score": 0.9463
+   }
+  }
+ },
+ "5544c4a0f57e": {
+  "model": "flux-pixel",
+  "base": "t1",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 510400,
+  "sx": 7.053763440860215,
+  "cells": {
+   "arvore_ipe_amarelo_florido": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.7574
+   },
+   "arvore_pequi_maduro": {
+    "file": "flux-pixel_d60_1001",
+    "score": 0.7449
+   }
+  }
+ },
+ "5b94722d912a": {
+  "model": "sd15-pixel",
+  "base": "t3",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 9715,
+  "sx": 3.3299492385786804,
+  "cells": {
+   "arvore_baru_maduro": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.6801
+   },
+   "arvore_cagaita_florida": {
+    "file": "sd15-pixel_d60_1001",
+    "score": 0.5003
+   }
+  }
+ },
+ "1f23c6e574ef": {
+  "model": "sd15-pixel",
+  "base": "t3",
+  "dn": 0.6,
+  "seed": 1002,
+  "ms": 9507,
+  "sx": 3.3299492385786804,
+  "cells": {
+   "arvore_baru_maduro": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.6726
+   },
+   "arvore_cagaita_florida": {
+    "file": "sd15-pixel_d60_1002",
+    "score": 0.5787
+   }
+  }
+ },
+ "6d9a1f1fd369": {
+  "model": "moss-refiner",
+  "base": "small",
+  "dn": 0.8,
+  "seed": 1001,
+  "ms": 189446,
+  "sx": 4.9361702127659575,
+  "cells": {
+   "cupinzeiro_alto": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.5837
+   },
+   "cupinzeiro_baixo": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.6008
+   },
+   "pilao": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.6592
+   },
+   "cerca_aroeira": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.1869
+   },
+   "cupinzeiro_alto_c": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.7292
+   },
+   "cupinzeiro_baixo_c": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.6886
+   },
+   "pilao_b": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.5717
+   },
+   "cerca_aroeira_esp": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.2034
+   },
+   "icone_arroz": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.492
+   },
+   "icone_cagaita": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.332
+   },
+   "icone_cana": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.2071
+   },
+   "icone_facao": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.4923
+   },
+   "icone_farinha": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.4561
+   },
+   "icone_melancia": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.6634
+   },
+   "icone_pequi": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.4098
+   },
+   "icone_rapadura": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.5772
+   },
+   "farmer_idle_0": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.0309
+   },
+   "icone_feijao": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.2852
+   },
+   "icone_soja": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.3151
+   },
+   "icone_capim": {
+    "file": "moss-refiner_d80_1001",
+    "score": 0.5031
+   }
+  }
+ },
+ "a4d84d3ebeb1": {
+  "model": "flux-pixel",
+  "base": "obj",
+  "dn": 0.45,
+  "seed": 1001,
+  "ms": 546973,
+  "sx": 6.6,
+  "cells": {
+   "carro_de_boi": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.8413
+   },
+   "moinho": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.881
+   },
+   "carroca_4rodas": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.8556
+   },
+   "moinho_agua": {
+    "file": "flux-pixel_d45_1001",
+    "score": 0.8665
+   }
+  }
+ },
+ "19cb3a181abc": {
+  "model": "moss-pixel",
+  "base": "obj",
+  "dn": 0.7,
+  "seed": 1001,
+  "ms": 337087,
+  "sx": 6.6,
+  "cells": {
+   "carro_de_boi": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.534
+   },
+   "moinho": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.7182
+   },
+   "carroca_4rodas": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.6493
+   },
+   "moinho_agua": {
+    "file": "moss-pixel_d70_1001",
+    "score": 0.7566
+   }
+  }
+ },
+ "6b1e4f4b9634": {
+  "model": "moss-pixel",
+  "base": "obj",
+  "dn": 0.7,
+  "seed": 1002,
+  "ms": 305391,
+  "sx": 6.6,
+  "cells": {
+   "carro_de_boi": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.542
+   },
+   "moinho": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.7371
+   },
+   "carroca_4rodas": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.7108
+   },
+   "moinho_agua": {
+    "file": "moss-pixel_d70_1002",
+    "score": 0.686
+   }
+  }
+ },
+ "feef64629700": {
+  "model": "sdxl-pixel-iso",
+  "base": "crops",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 112513,
+  "sx": 6.074074074074074,
+  "cells": {
+   "cultivo_arroz": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.5672
+   },
+   "cultivo_feijao": {
+    "file": "sdxl-pixel-iso_d65_1001",
+    "score": 0.5206
+   }
+  }
+ },
+ "7ac4bfef25bc": {
+  "model": "sdxl-pixel",
+  "base": "terrain",
+  "dn": 0.65,
+  "seed": 1001,
+  "ms": 115654,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.8757
+   },
+   "terreno_01_grama": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.874
+   },
+   "terreno_02_grama": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.8744
+   },
+   "terreno_03_grama": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.8716
+   },
+   "terreno_04_trilha": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.9175
+   },
+   "terreno_05_trilha": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.9218
+   },
+   "terreno_06_trilha": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.9236
+   },
+   "terreno_07_trilha": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.914
+   },
+   "terreno_08_palha": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.8657
+   },
+   "terreno_09_palha": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.8675
+   },
+   "terreno_10_umida": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.8994
+   },
+   "terreno_11_umida": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.8964
+   },
+   "terreno_12_cascalho": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.907
+   },
+   "terreno_13_cascalho": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.9159
+   },
+   "terreno_14_arado": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.9276
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sdxl-pixel_d65_1001",
+    "score": 0.9302
+   }
+  }
+ },
+ "a7944326aac0": {
+  "model": "sdxl-pixel",
+  "base": "terrain",
+  "dn": 0.65,
+  "seed": 1002,
+  "ms": 119591,
+  "sx": 8.0,
+  "cells": {
+   "terreno_00_grama": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.8881
+   },
+   "terreno_01_grama": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.8895
+   },
+   "terreno_02_grama": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.8879
+   },
+   "terreno_03_grama": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.8874
+   },
+   "terreno_04_trilha": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.91
+   },
+   "terreno_05_trilha": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.9105
+   },
+   "terreno_06_trilha": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.9128
+   },
+   "terreno_07_trilha": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.901
+   },
+   "terreno_08_palha": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.9169
+   },
+   "terreno_09_palha": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.8561
+   },
+   "terreno_10_umida": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.9209
+   },
+   "terreno_11_umida": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.9209
+   },
+   "terreno_12_cascalho": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.9135
+   },
+   "terreno_13_cascalho": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.921
+   },
+   "terreno_14_arado": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.9269
+   },
+   "terreno_15_arado_molhado": {
+    "file": "sdxl-pixel_d65_1002",
+    "score": 0.9363
+   }
+  }
+ },
+ "12f2d64c8c05": {
+  "model": "sdxl-sai",
+  "base": "obj",
+  "dn": 0.75,
+  "seed": 1001,
+  "ms": 122342,
+  "sx": 6.55,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.6946
+   },
+   "moinho": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.7797
+   },
+   "carroca_4rodas": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.7687
+   },
+   "moinho_agua": {
+    "file": "sdxl-sai_d75_1001",
+    "score": 0.7195
+   }
+  }
+ },
+ "f49c261eb8b6": {
+  "model": "sdxl-sai",
+  "base": "obj",
+  "dn": 0.6,
+  "seed": 1001,
+  "ms": 118929,
+  "sx": 6.55,
+  "cells": {
+   "carro_de_boi": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.8307
+   },
+   "moinho": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.836
+   },
+   "carroca_4rodas": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.8378
+   },
+   "moinho_agua": {
+    "file": "sdxl-sai_d60_1001",
+    "score": 0.8307
+   }
+  }
+ }
+}

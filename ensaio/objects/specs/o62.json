@@ -1,0 +1,12 @@
+[
+ {
+  "name": "cagaita_c-florida",
+  "template": "moss",
+  "base": "bd5fd1c7b5a9",
+  "mask": "objects/specs/masks/cagaita_c.png",
+  "feather": 8,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado cagaita tree: short crooked twisted trunk with corky grey-brown bark, irregular crown made of several dense clumps of small olive green leaves with many small white flowers, no fruits, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ }
+]

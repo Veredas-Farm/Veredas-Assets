@@ -1,0 +1,19 @@
+{
+ "grass": "runs/e05/m-grass-2191939495.png",
+ "path": "runs/e05/m-sandpath-530853436.png",
+ "side": "runs/e05/m-soilside-1122527618.png",
+ "water": null,
+ "dry": "runs/e05/m-drygrass-1295530386.png",
+ "lush": "/home/chips/git/games/Veredas-Assets/ensaio/out/iso/tex/umida.png",
+ "grass_extra": [
+  "/home/chips/git/games/Veredas-Assets/ensaio/out/iso/tex/a_20.png",
+  "/home/chips/git/games/Veredas-Assets/ensaio/out/iso/tex/a_22.png",
+  "/home/chips/git/games/Veredas-Assets/ensaio/out/iso/tex/b_20.png",
+  "/home/chips/git/games/Veredas-Assets/ensaio/out/iso/tex/b_22.png"
+ ],
+ "path_extra": [
+  "/home/chips/git/games/Veredas-Assets/ensaio/out/iso/tex/a_00.png",
+  "/home/chips/git/games/Veredas-Assets/ensaio/out/iso/tex/a_10.png"
+ ],
+ "rock": "/home/chips/git/games/Veredas-Assets/ensaio/out/iso/tex/rocha.png"
+}

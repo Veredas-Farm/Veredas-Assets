@@ -1,0 +1,14 @@
+[
+ {
+  "name": "sombraD-arvore_pequi-Dw",
+  "template": "moss",
+  "base": "9d15a9181dad",
+  "mask": "objects/specs/masks/sombra_arvore_pequi_Dw.png",
+  "feather": 16,
+  "n": 3,
+  "set": {
+   "prompt": "pixel art, plain flat white background, sun high overhead at noon, the clearly visible dark grey cast shadow of a round tree crown and trunk on the white ground directly beneath it, short shadow slightly toward the lower right, strong contrast solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ }
+]

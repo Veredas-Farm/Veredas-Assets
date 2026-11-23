@@ -1,0 +1,6 @@
+[
+ {"name":"tex-water","template":"sdxl-pad","set":{"prompt":"top-down view of open deep blue lake water surface texture, only water, gentle light ripples and small sparkles, seamless tileable game terrain, flat lighting, no land, no plants","negative":"land, island, grass, shore, rocks, 3d render, photo, realistic, text"}},
+ {"name":"tex-redsoil","template":"sdxl-pad","set":{"prompt":"top-down view of smooth packed red earth ground texture, reddish-orange laterite dirt with tiny pebbles and subtle variations, seamless tileable game terrain, flat lighting, no cracks, no objects"}},
+ {"name":"tex-grass2","template":"sdxl-pad","set":{"prompt":"top-down view of lush green meadow grass texture, small grass blades, a few tiny white and yellow flowers, seamless tileable game terrain, soft flat lighting, no objects"}},
+ {"name":"tex-grass3","template":"moss-pixel","set":{"prompt":"top-down seamless texture of natural green grass ground for a cozy farming game, varied soft green tones, small clumps, no repeating pattern, no objects, flat lighting, fills the entire frame"}}
+]

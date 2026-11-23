@@ -1,0 +1,12 @@
+[
+ {
+  "name": "arv-jatoba2-pequi-d65",
+  "template": "moss-pixel",
+  "base": "a9a9f900c291",
+  "set": {
+   "prompt": "a single brazilian cerrado jatoba tree: thick short grey trunk with a few spreading branches, rounded crown made of many dense clumps of small dark green oval leaflets, a few short thick brown woody seed pods the size of a leaf resting among the leaves, small and hard, not hanging, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background",
+   "denoise": "0.65"
+  },
+  "n": 3
+ }
+]

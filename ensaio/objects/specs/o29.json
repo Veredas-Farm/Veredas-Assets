@@ -1,0 +1,32 @@
+[
+ {
+  "name": "cagaita-florida",
+  "template": "moss",
+  "base": "fad9e23138c0",
+  "mask": "objects/specs/masks/cagaita.png",
+  "feather": 16,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado cagaita tree: short crooked twisted trunk with corky grey-brown bark, irregular rounded crown made of several dense clumps of small olive green leaves covered in many small white flowers, no fruits, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ },
+ {
+  "name": "cagaita-fruto_verde",
+  "template": "moss",
+  "base": "fad9e23138c0",
+  "mask": "objects/specs/masks/cagaita.png",
+  "feather": 16,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado cagaita tree: short crooked twisted trunk with corky grey-brown bark, irregular rounded crown made of several dense clumps of small olive green leaves, with many small round unripe green fruits, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ },
+ {
+  "name": "cagaita-folhada",
+  "template": "moss",
+  "base": "fad9e23138c0",
+  "mask": "objects/specs/masks/cagaita.png",
+  "feather": 16,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado cagaita tree: short crooked twisted trunk with corky grey-brown bark, irregular rounded crown made of several dense clumps of small olive green leaves, no fruits, no flowers, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ }
+]

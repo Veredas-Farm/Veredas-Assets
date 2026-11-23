@@ -1,0 +1,11 @@
+[
+ {
+  "name": "foiceside-055",
+  "template": "moss-pixel",
+  "base": "e08ca4d6e9bc",
+  "set": {
+   "prompt": "pixel art character sprite sheet of a tiny chibi farmer boy, every frame is the side view facing right, action poses with one or both arms raised or stretched out, empty hands, same character in every frame, big head, wide straw hat, red plaid shirt, blue jeans, brown boots, simple flat colors, 16-bit RPG farming game sprites, dark outline, plain white background",
+   "denoise": 0.55
+  }
+ }
+]

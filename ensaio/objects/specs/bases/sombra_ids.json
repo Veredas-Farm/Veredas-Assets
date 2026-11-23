@@ -1,0 +1,43 @@
+{
+ "arvore_ipe_amarelo": [
+  "f0a62947e5d4",
+  "f838ddc13f18",
+  "c9609a089238"
+ ],
+ "arvore_pequi": [
+  "259345fac1f0",
+  "48af019a2505",
+  "c0ddd81ecb9a"
+ ],
+ "carro_de_boi": [
+  "5a34c892eed2",
+  "dc7e80a19794",
+  "954804eaabb9"
+ ],
+ "casa": [
+  "f56dc78366bb",
+  "e7b36fc988e0",
+  "c84390cb9b97"
+ ],
+ "cupinzeiro_alto": [
+  "55fb634cab5e",
+  "f03c0f818381"
+ ],
+ "moinho": [
+  "d0cbc3fede0f",
+  "a1b036643025",
+  "723619d0c32c"
+ ],
+ "D": {
+  "arvore_baru": "6a07eb1b81ab",
+  "arvore_cagaita": "e992101bffaf",
+  "arvore_ipe_amarelo": "287149eb7c9e",
+  "arvore_ipe_roxo": "7b256a3ca740",
+  "arvore_pequi": "9d15a9181dad",
+  "arvore_seca_caida": "c76b7d60baca",
+  "carro_de_boi": "90f748bc8f5a",
+  "cupinzeiro_alto": "8138917d5880",
+  "house": "87bd5817672f",
+  "moinho": "c34bc4f061d5"
+ }
+}

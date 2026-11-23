@@ -1,0 +1,8 @@
+[
+ {"name":"cagaita-pad","template":"sdxl-pad","set":{"prompt":"game inventory item icon of three small round yellow cagaita fruits with a green leaf, cozy farming game item, dark outline, centered, plain white background"}},
+ {"name":"facao-pad","template":"sdxl-pad","set":{"prompt":"game inventory item icon of a machete with a long steel blade and a brown wooden handle, diagonal, cozy farming game tool, dark outline, centered, plain white background"}},
+ {"name":"cagaita-moss","template":"moss-pixel","set":{"prompt":"game inventory item icon of three small round yellow cagaita fruits with a green leaf, cozy farming game item, dark outline, centered, plain white background"}},
+ {"name":"facao-moss","template":"moss-pixel","set":{"prompt":"game inventory item icon of a machete with a long steel blade and a brown wooden handle, diagonal, cozy farming game tool, dark outline, centered, plain white background"}},
+ {"name":"cagaita-poke","template":"sdxl-pokemon","set":{"prompt":"pixel art item icon of three small round yellow cagaita fruits with a green leaf, dark outline, centered, plain white background"}},
+ {"name":"cagaita-surv","template":"sd15-survivors","n":2,"set":{"prompt":"pixel art item icon of three small round yellow fruits with a green leaf, dark outline, centered, plain white background"}}
+]

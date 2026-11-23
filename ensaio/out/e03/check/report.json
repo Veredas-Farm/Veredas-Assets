@@ -1,0 +1,172 @@
+{
+  "limiares": {
+    "semi": 0,
+    "fora": 4,
+    "faltando": 4,
+    "iou_min": 0.98,
+    "cores_max": 64,
+    "costura_max": 1.5
+  },
+  "tiles": [
+    {
+      "name": "grassvar0",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 11,
+      "seam_ratio": 1.091,
+      "fails": [],
+      "pass": true,
+      "preview_map": "grassvar0_map.png",
+      "preview_mixed": "grassvar0_mixed.png"
+    },
+    {
+      "name": "grassvar1",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 10,
+      "seam_ratio": 0.936,
+      "fails": [],
+      "pass": true,
+      "preview_map": "grassvar1_map.png",
+      "preview_mixed": "grassvar1_mixed.png"
+    },
+    {
+      "name": "grassvar2",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 11,
+      "seam_ratio": 0.861,
+      "fails": [],
+      "pass": true,
+      "preview_map": "grassvar2_map.png",
+      "preview_mixed": "grassvar2_mixed.png"
+    },
+    {
+      "name": "grassvar3",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 10,
+      "seam_ratio": 1.023,
+      "fails": [],
+      "pass": true,
+      "preview_map": "grassvar3_map.png",
+      "preview_mixed": "grassvar3_mixed.png"
+    },
+    {
+      "name": "grassvar4",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 10,
+      "seam_ratio": 0.906,
+      "fails": [],
+      "pass": true,
+      "preview_map": "grassvar4_map.png",
+      "preview_mixed": "grassvar4_mixed.png"
+    },
+    {
+      "name": "grassvar5",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 11,
+      "seam_ratio": 1.0,
+      "fails": [],
+      "pass": true,
+      "preview_map": "grassvar5_map.png",
+      "preview_mixed": "grassvar5_mixed.png"
+    },
+    {
+      "name": "grassvar6",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 10,
+      "seam_ratio": 0.802,
+      "fails": [],
+      "pass": true,
+      "preview_map": "grassvar6_map.png",
+      "preview_mixed": "grassvar6_mixed.png"
+    },
+    {
+      "name": "grassvar7",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 10,
+      "seam_ratio": 0.979,
+      "fails": [],
+      "pass": true,
+      "preview_map": "grassvar7_map.png",
+      "preview_mixed": "grassvar7_mixed.png"
+    },
+    {
+      "name": "grassvar-map",
+      "size": [
+        960,
+        528
+      ],
+      "size_ok": false,
+      "pass": false,
+      "fails": [
+        "tamanho"
+      ]
+    }
+  ],
+  "grupo": {
+    "seam_ratio_mistura": 0.957,
+    "pass": true
+  }
+}

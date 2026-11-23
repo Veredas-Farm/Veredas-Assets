@@ -1,0 +1,12 @@
+[
+ {
+  "name": "i2i-back-070",
+  "template": "moss-pixel",
+  "base": "51332d5a197a",
+  "set": {
+   "prompt": "a single chibi farmer boy standing, back view, seen from behind, face not visible, super deformed proportions, very big head, tiny body, wide straw hat, red plaid shirt, blue jeans, brown boots, simple flat colors, cute 16-bit RPG farming game sprite, thick dark outline, centered, plain white background",
+   "denoise": 0.7,
+   "seed": 4030438531
+  }
+ }
+]

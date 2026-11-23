@@ -1,0 +1,1108 @@
+{
+ "tiles": [
+  {
+   "atlas": [
+    0,
+    0
+   ],
+   "on": "grass",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    1,
+    0
+   ],
+   "on": "grass",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    2,
+    0
+   ],
+   "on": "grass",
+   "kind": "flores"
+  },
+  {
+   "atlas": [
+    3,
+    0
+   ],
+   "on": "grass",
+   "kind": "trevo"
+  },
+  {
+   "atlas": [
+    4,
+    0
+   ],
+   "on": "grass",
+   "kind": "seixos"
+  },
+  {
+   "atlas": [
+    5,
+    0
+   ],
+   "on": "grass",
+   "kind": "folhas"
+  },
+  {
+   "atlas": [
+    6,
+    0
+   ],
+   "on": "grass",
+   "kind": "misto"
+  },
+  {
+   "atlas": [
+    7,
+    0
+   ],
+   "on": "grass",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    8,
+    0
+   ],
+   "on": "grass",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    9,
+    0
+   ],
+   "on": "grass",
+   "kind": "flores"
+  },
+  {
+   "atlas": [
+    10,
+    0
+   ],
+   "on": "grass",
+   "kind": "trevo"
+  },
+  {
+   "atlas": [
+    11,
+    0
+   ],
+   "on": "grass",
+   "kind": "seixos"
+  },
+  {
+   "atlas": [
+    12,
+    0
+   ],
+   "on": "grass",
+   "kind": "folhas"
+  },
+  {
+   "atlas": [
+    13,
+    0
+   ],
+   "on": "grass",
+   "kind": "misto"
+  },
+  {
+   "atlas": [
+    14,
+    0
+   ],
+   "on": "grass",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    15,
+    0
+   ],
+   "on": "grass",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    0,
+    1
+   ],
+   "on": "grass",
+   "kind": "flores"
+  },
+  {
+   "atlas": [
+    1,
+    1
+   ],
+   "on": "grass",
+   "kind": "trevo"
+  },
+  {
+   "atlas": [
+    2,
+    1
+   ],
+   "on": "grass",
+   "kind": "seixos"
+  },
+  {
+   "atlas": [
+    3,
+    1
+   ],
+   "on": "grass",
+   "kind": "folhas"
+  },
+  {
+   "atlas": [
+    4,
+    1
+   ],
+   "on": "grass",
+   "kind": "misto"
+  },
+  {
+   "atlas": [
+    5,
+    1
+   ],
+   "on": "grass",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    6,
+    1
+   ],
+   "on": "grass",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    7,
+    1
+   ],
+   "on": "grass",
+   "kind": "flores"
+  },
+  {
+   "atlas": [
+    8,
+    1
+   ],
+   "on": "grass",
+   "kind": "trevo"
+  },
+  {
+   "atlas": [
+    9,
+    1
+   ],
+   "on": "grass",
+   "kind": "seixos"
+  },
+  {
+   "atlas": [
+    10,
+    1
+   ],
+   "on": "grass",
+   "kind": "folhas"
+  },
+  {
+   "atlas": [
+    11,
+    1
+   ],
+   "on": "grass",
+   "kind": "misto"
+  },
+  {
+   "atlas": [
+    12,
+    1
+   ],
+   "on": "dry",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    13,
+    1
+   ],
+   "on": "dry",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    14,
+    1
+   ],
+   "on": "dry",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    15,
+    1
+   ],
+   "on": "dry",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    0,
+    2
+   ],
+   "on": "dry",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    1,
+    2
+   ],
+   "on": "dry",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    2,
+    2
+   ],
+   "on": "dry",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    3,
+    2
+   ],
+   "on": "dry",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    4,
+    2
+   ],
+   "on": "dry",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    5,
+    2
+   ],
+   "on": "dry",
+   "kind": "tufos"
+  },
+  {
+   "atlas": [
+    6,
+    2
+   ],
+   "on": "lush",
+   "kind": "misto"
+  },
+  {
+   "atlas": [
+    7,
+    2
+   ],
+   "on": "lush",
+   "kind": "misto"
+  },
+  {
+   "atlas": [
+    8,
+    2
+   ],
+   "on": "lush",
+   "kind": "misto"
+  },
+  {
+   "atlas": [
+    9,
+    2
+   ],
+   "on": "lush",
+   "kind": "misto"
+  },
+  {
+   "atlas": [
+    10,
+    2
+   ],
+   "on": "lush",
+   "kind": "misto"
+  },
+  {
+   "atlas": [
+    11,
+    2
+   ],
+   "on": "lush",
+   "kind": "misto"
+  },
+  {
+   "atlas": [
+    12,
+    2
+   ],
+   "on": "lush",
+   "kind": "misto"
+  },
+  {
+   "atlas": [
+    13,
+    2
+   ],
+   "on": "lush",
+   "kind": "misto"
+  },
+  {
+   "atlas": [
+    14,
+    2
+   ],
+   "on": "lush",
+   "kind": "misto"
+  },
+  {
+   "atlas": [
+    15,
+    2
+   ],
+   "on": "lush",
+   "kind": "misto"
+  },
+  {
+   "atlas": [
+    0,
+    3
+   ],
+   "on": "path",
+   "kind": "seixos"
+  },
+  {
+   "atlas": [
+    1,
+    3
+   ],
+   "on": "path",
+   "kind": "racha"
+  },
+  {
+   "atlas": [
+    2,
+    3
+   ],
+   "on": "path",
+   "kind": "folhas"
+  },
+  {
+   "atlas": [
+    3,
+    3
+   ],
+   "on": "path",
+   "kind": "buraco"
+  },
+  {
+   "atlas": [
+    4,
+    3
+   ],
+   "on": "path",
+   "kind": "seixos"
+  },
+  {
+   "atlas": [
+    5,
+    3
+   ],
+   "on": "path",
+   "kind": "poca"
+  },
+  {
+   "atlas": [
+    6,
+    3
+   ],
+   "on": "path",
+   "kind": "racha"
+  },
+  {
+   "atlas": [
+    7,
+    3
+   ],
+   "on": "path",
+   "kind": "seixos"
+  },
+  {
+   "atlas": [
+    8,
+    3
+   ],
+   "on": "path",
+   "kind": "racha"
+  },
+  {
+   "atlas": [
+    9,
+    3
+   ],
+   "on": "path",
+   "kind": "folhas"
+  },
+  {
+   "atlas": [
+    10,
+    3
+   ],
+   "on": "path",
+   "kind": "buraco"
+  },
+  {
+   "atlas": [
+    11,
+    3
+   ],
+   "on": "path",
+   "kind": "seixos"
+  },
+  {
+   "atlas": [
+    12,
+    3
+   ],
+   "on": "path",
+   "kind": "poca"
+  },
+  {
+   "atlas": [
+    13,
+    3
+   ],
+   "on": "path",
+   "kind": "racha"
+  },
+  {
+   "atlas": [
+    14,
+    3
+   ],
+   "on": "track_u",
+   "kind": "capim"
+  },
+  {
+   "atlas": [
+    15,
+    3
+   ],
+   "on": "track_u",
+   "kind": "capim"
+  },
+  {
+   "atlas": [
+    0,
+    4
+   ],
+   "on": "track_u",
+   "kind": "capim"
+  },
+  {
+   "atlas": [
+    1,
+    4
+   ],
+   "on": "track_u",
+   "kind": "capim"
+  },
+  {
+   "atlas": [
+    2,
+    4
+   ],
+   "on": "track_u",
+   "kind": "capim"
+  },
+  {
+   "atlas": [
+    3,
+    4
+   ],
+   "on": "track_u",
+   "kind": "capim"
+  },
+  {
+   "atlas": [
+    4,
+    4
+   ],
+   "on": "track_v",
+   "kind": "capim"
+  },
+  {
+   "atlas": [
+    5,
+    4
+   ],
+   "on": "track_v",
+   "kind": "capim"
+  },
+  {
+   "atlas": [
+    6,
+    4
+   ],
+   "on": "track_v",
+   "kind": "capim"
+  },
+  {
+   "atlas": [
+    7,
+    4
+   ],
+   "on": "track_v",
+   "kind": "capim"
+  },
+  {
+   "atlas": [
+    8,
+    4
+   ],
+   "on": "track_v",
+   "kind": "capim"
+  },
+  {
+   "atlas": [
+    9,
+    4
+   ],
+   "on": "track_v",
+   "kind": "capim"
+  },
+  {
+   "atlas": [
+    10,
+    4
+   ],
+   "on": "trackhole_u_esq",
+   "kind": "buraco"
+  },
+  {
+   "atlas": [
+    11,
+    4
+   ],
+   "on": "trackhole_u_esq",
+   "kind": "poca"
+  },
+  {
+   "atlas": [
+    12,
+    4
+   ],
+   "on": "trackhole_u_esq",
+   "kind": "buraco"
+  },
+  {
+   "atlas": [
+    13,
+    4
+   ],
+   "on": "trackhole_u_dir",
+   "kind": "buraco"
+  },
+  {
+   "atlas": [
+    14,
+    4
+   ],
+   "on": "trackhole_u_dir",
+   "kind": "poca"
+  },
+  {
+   "atlas": [
+    15,
+    4
+   ],
+   "on": "trackhole_u_dir",
+   "kind": "buraco"
+  },
+  {
+   "atlas": [
+    0,
+    5
+   ],
+   "on": "trackhole_v_esq",
+   "kind": "buraco"
+  },
+  {
+   "atlas": [
+    1,
+    5
+   ],
+   "on": "trackhole_v_esq",
+   "kind": "poca"
+  },
+  {
+   "atlas": [
+    2,
+    5
+   ],
+   "on": "trackhole_v_esq",
+   "kind": "buraco"
+  },
+  {
+   "atlas": [
+    3,
+    5
+   ],
+   "on": "trackhole_v_dir",
+   "kind": "buraco"
+  },
+  {
+   "atlas": [
+    4,
+    5
+   ],
+   "on": "trackhole_v_dir",
+   "kind": "poca"
+  },
+  {
+   "atlas": [
+    5,
+    5
+   ],
+   "on": "trackhole_v_dir",
+   "kind": "buraco"
+  },
+  {
+   "atlas": [
+    6,
+    5
+   ],
+   "on": "grass",
+   "kind": "touceira"
+  },
+  {
+   "atlas": [
+    7,
+    5
+   ],
+   "on": "grass",
+   "kind": "touceira"
+  },
+  {
+   "atlas": [
+    8,
+    5
+   ],
+   "on": "grass",
+   "kind": "touceira"
+  },
+  {
+   "atlas": [
+    9,
+    5
+   ],
+   "on": "grass",
+   "kind": "touceira"
+  },
+  {
+   "atlas": [
+    10,
+    5
+   ],
+   "on": "grass",
+   "kind": "touceira"
+  },
+  {
+   "atlas": [
+    11,
+    5
+   ],
+   "on": "grass",
+   "kind": "touceira"
+  },
+  {
+   "atlas": [
+    12,
+    5
+   ],
+   "on": "grass",
+   "kind": "capim_alto"
+  },
+  {
+   "atlas": [
+    13,
+    5
+   ],
+   "on": "grass",
+   "kind": "capim_alto"
+  },
+  {
+   "atlas": [
+    14,
+    5
+   ],
+   "on": "grass",
+   "kind": "capim_alto"
+  },
+  {
+   "atlas": [
+    15,
+    5
+   ],
+   "on": "grass",
+   "kind": "capim_alto"
+  },
+  {
+   "atlas": [
+    0,
+    6
+   ],
+   "on": "grass",
+   "kind": "tufo_vento"
+  },
+  {
+   "atlas": [
+    1,
+    6
+   ],
+   "on": "grass",
+   "kind": "tufo_vento"
+  },
+  {
+   "atlas": [
+    2,
+    6
+   ],
+   "on": "grass",
+   "kind": "tufo_vento"
+  },
+  {
+   "atlas": [
+    3,
+    6
+   ],
+   "on": "grass",
+   "kind": "moita"
+  },
+  {
+   "atlas": [
+    4,
+    6
+   ],
+   "on": "grass",
+   "kind": "moita"
+  },
+  {
+   "atlas": [
+    5,
+    6
+   ],
+   "on": "grass",
+   "kind": "moita"
+  },
+  {
+   "atlas": [
+    6,
+    6
+   ],
+   "on": "grass",
+   "kind": "moita"
+  },
+  {
+   "atlas": [
+    7,
+    6
+   ],
+   "on": "grass",
+   "kind": "capim_dourado"
+  },
+  {
+   "atlas": [
+    8,
+    6
+   ],
+   "on": "grass",
+   "kind": "capim_dourado"
+  },
+  {
+   "atlas": [
+    9,
+    6
+   ],
+   "on": "grass",
+   "kind": "capim_dourado"
+  },
+  {
+   "atlas": [
+    10,
+    6
+   ],
+   "on": "grass",
+   "kind": "capim_dourado"
+  },
+  {
+   "atlas": [
+    11,
+    6
+   ],
+   "on": "grass",
+   "kind": "chuveirinho"
+  },
+  {
+   "atlas": [
+    12,
+    6
+   ],
+   "on": "grass",
+   "kind": "chuveirinho"
+  },
+  {
+   "atlas": [
+    13,
+    6
+   ],
+   "on": "grass",
+   "kind": "chuveirinho"
+  },
+  {
+   "atlas": [
+    14,
+    6
+   ],
+   "on": "grass",
+   "kind": "flores_cerrado"
+  },
+  {
+   "atlas": [
+    15,
+    6
+   ],
+   "on": "grass",
+   "kind": "flores_cerrado"
+  },
+  {
+   "atlas": [
+    0,
+    7
+   ],
+   "on": "grass",
+   "kind": "flores_cerrado"
+  },
+  {
+   "atlas": [
+    1,
+    7
+   ],
+   "on": "grass",
+   "kind": "flores_cerrado"
+  },
+  {
+   "atlas": [
+    2,
+    7
+   ],
+   "on": "grass",
+   "kind": "flores_cerrado"
+  },
+  {
+   "atlas": [
+    3,
+    7
+   ],
+   "on": "grass",
+   "kind": "brotos"
+  },
+  {
+   "atlas": [
+    4,
+    7
+   ],
+   "on": "grass",
+   "kind": "brotos"
+  },
+  {
+   "atlas": [
+    5,
+    7
+   ],
+   "on": "grass",
+   "kind": "brotos"
+  },
+  {
+   "atlas": [
+    6,
+    7
+   ],
+   "on": "grass",
+   "kind": "brotos"
+  },
+  {
+   "atlas": [
+    7,
+    7
+   ],
+   "on": "dry",
+   "kind": "touceira"
+  },
+  {
+   "atlas": [
+    8,
+    7
+   ],
+   "on": "dry",
+   "kind": "touceira"
+  },
+  {
+   "atlas": [
+    9,
+    7
+   ],
+   "on": "dry",
+   "kind": "touceira"
+  },
+  {
+   "atlas": [
+    10,
+    7
+   ],
+   "on": "dry",
+   "kind": "capim_alto"
+  },
+  {
+   "atlas": [
+    11,
+    7
+   ],
+   "on": "dry",
+   "kind": "capim_alto"
+  },
+  {
+   "atlas": [
+    12,
+    7
+   ],
+   "on": "dry",
+   "kind": "capim_alto"
+  },
+  {
+   "atlas": [
+    13,
+    7
+   ],
+   "on": "dry",
+   "kind": "capim_dourado"
+  },
+  {
+   "atlas": [
+    14,
+    7
+   ],
+   "on": "dry",
+   "kind": "capim_dourado"
+  },
+  {
+   "atlas": [
+    15,
+    7
+   ],
+   "on": "dry",
+   "kind": "capim_dourado"
+  },
+  {
+   "atlas": [
+    0,
+    8
+   ],
+   "on": "lush",
+   "kind": "moita"
+  },
+  {
+   "atlas": [
+    1,
+    8
+   ],
+   "on": "lush",
+   "kind": "moita"
+  },
+  {
+   "atlas": [
+    2,
+    8
+   ],
+   "on": "lush",
+   "kind": "moita"
+  },
+  {
+   "atlas": [
+    3,
+    8
+   ],
+   "on": "lush",
+   "kind": "touceira"
+  },
+  {
+   "atlas": [
+    4,
+    8
+   ],
+   "on": "lush",
+   "kind": "touceira"
+  },
+  {
+   "atlas": [
+    5,
+    8
+   ],
+   "on": "lush",
+   "kind": "touceira"
+  },
+  {
+   "atlas": [
+    6,
+    8
+   ],
+   "on": "lush",
+   "kind": "brotos"
+  },
+  {
+   "atlas": [
+    7,
+    8
+   ],
+   "on": "lush",
+   "kind": "brotos"
+  },
+  {
+   "atlas": [
+    8,
+    8
+   ],
+   "on": "lush",
+   "kind": "flores_cerrado"
+  },
+  {
+   "atlas": [
+    9,
+    8
+   ],
+   "on": "lush",
+   "kind": "flores_cerrado"
+  }
+ ]
+}

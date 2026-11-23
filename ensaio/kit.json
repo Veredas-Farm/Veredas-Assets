@@ -1,0 +1,8 @@
+{
+ "grass": "runs/e01/tex-grass-pad-3969706240.png",
+ "path": "runs/e02/tex-sandpath-2932503534.png",
+ "side": "runs/e02/tex-soilside-3889471196.png",
+ "water": null,
+ "dry": "runs/e02/tex-drygrass-2818677668.png",
+ "lush": "runs/e03/tex-grass2-3473929349.png"
+}

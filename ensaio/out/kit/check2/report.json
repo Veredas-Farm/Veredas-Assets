@@ -1,0 +1,124 @@
+{
+  "limiares": {
+    "semi": 0,
+    "fora": 4,
+    "faltando": 4,
+    "iou_min": 0.98,
+    "cores_max": 64,
+    "costura_max": 1.5
+  },
+  "tiles": [
+    {
+      "name": "atlas_r2c0",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 6,
+      "seam_ratio": 0.853,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r2c0_map.png",
+      "preview_mixed": "atlas_r2c0_mixed.png"
+    },
+    {
+      "name": "atlas_r2c1",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 5,
+      "seam_ratio": 0.475,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r2c1_map.png",
+      "preview_mixed": "atlas_r2c1_mixed.png"
+    },
+    {
+      "name": "atlas_r2c2",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 5,
+      "seam_ratio": 0.475,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r2c2_map.png",
+      "preview_mixed": "atlas_r2c2_mixed.png"
+    },
+    {
+      "name": "atlas_r2c3",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 5,
+      "seam_ratio": 0.0,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r2c3_map.png",
+      "preview_mixed": "atlas_r2c3_mixed.png"
+    },
+    {
+      "name": "atlas_r2c4",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 5,
+      "seam_ratio": 0.0,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r2c4_map.png",
+      "preview_mixed": "atlas_r2c4_mixed.png"
+    },
+    {
+      "name": "atlas_r2c5",
+      "size": [
+        32,
+        32
+      ],
+      "size_ok": true,
+      "semi_transparent": 0,
+      "outside": 0,
+      "missing": 0,
+      "iou": 1.0,
+      "colors": 6,
+      "seam_ratio": 0.422,
+      "fails": [],
+      "pass": true,
+      "preview_map": "atlas_r2c5_map.png",
+      "preview_mixed": "atlas_r2c5_mixed.png"
+    }
+  ],
+  "grupo": {
+    "seam_ratio_mistura": 0.475,
+    "pass": true
+  }
+}

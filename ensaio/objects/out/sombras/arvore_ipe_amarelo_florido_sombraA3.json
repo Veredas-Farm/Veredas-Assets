@@ -1,0 +1,1 @@
+{"anchor": [13, 7], "offset": [-13, -7], "alpha": null, "levels": [0.22, 0.36, 0.5], "light": "cima-esquerda", "dir": [2, 1], "tech": "A3", "src": "o38/sombra-arvore_ipe_amarelo-A3-*.png", "nota": "alfa j\u00e1 no PNG (3 n\u00edveis); n\u00e3o aplicar o alfa do CanvasGroup por cima"}

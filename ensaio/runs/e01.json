@@ -1,0 +1,7 @@
+[
+ {"name":"tex-grass-pad","template":"sdxl-pad","set":{"prompt":"top-down view of short green grass texture, seamless tileable game terrain texture, flat lighting, no objects, fills the whole image"}},
+ {"name":"tex-grass-moss","template":"moss-pixel","set":{"prompt":"top-down seamless texture of short green grass with small tufts, game terrain tile, flat even lighting, fills the entire frame, no objects, no border"}},
+ {"name":"tex-grass-lcm","template":"sdxl-pixel-lcm","set":{"prompt":"top-down green grass texture, seamless game terrain, flat lighting"}},
+ {"name":"iso-grass-pad","template":"sdxl-pad","set":{"prompt":"single isometric grass block tile, green grass on top, brown dirt sides, game asset, centered, plain white background"}},
+ {"name":"iso-grass-moss","template":"moss-pixel","set":{"prompt":"a single isometric cube-shaped terrain tile for a farming game: flat green grass top surface and brown soil sides, centered on a plain white background"}}
+]

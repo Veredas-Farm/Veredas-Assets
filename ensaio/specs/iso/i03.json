@@ -1,0 +1,12 @@
+[
+ {
+  "name": "folha-kit-borda-d50",
+  "template": "moss-pixel",
+  "base": "4f8942dd027a",
+  "set": {
+   "prompt": "isometric pixel art tileset sheet, 4 by 4 grid of isometric cube blocks, every block is a small cube slab with a flat 2:1 diamond top and clearly drawn dark brown soil sides on the left and right, dark outline along every edge so that blocks tile edge to edge, same light from the top left, rows: light green grass blocks, brown dirt path blocks, dry yellow grass blocks and dark green grass blocks, grass and dirt transition blocks, crisp clean pixels, plain white background",
+   "denoise": "0.5"
+  },
+  "n": 2
+ }
+]

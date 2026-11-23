@@ -1,0 +1,20 @@
+[
+ {
+  "name": "i2i-row-085",
+  "template": "moss-pixel",
+  "base": "8bff580e758b",
+  "set": {
+   "prompt": "character sprite sheet of one chibi farmer boy shown three times in one horizontal row: front view, side view facing right, back view, same character in each view, super deformed proportions, very big head, tiny body, wide straw hat, red plaid shirt, blue jeans, brown boots, simple flat colors, cute 16-bit RPG farming game sprite, thick dark outline, plain white background",
+   "denoise": 0.85
+  }
+ },
+ {
+  "name": "i2i-front-070",
+  "template": "moss-pixel",
+  "base": "cca5b17ef555",
+  "set": {
+   "prompt": "a single chibi farmer boy standing, front view, super deformed proportions, very big head, tiny body, wide straw hat, red plaid shirt, blue jeans, brown boots, simple flat colors, cute 16-bit RPG farming game sprite, thick dark outline, centered, plain white background",
+   "denoise": 0.7
+  }
+ }
+]

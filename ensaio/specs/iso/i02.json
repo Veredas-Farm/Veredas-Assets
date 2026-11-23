@@ -1,0 +1,12 @@
+[
+ {
+  "name": "folha-jogo-d45",
+  "template": "moss-pixel",
+  "base": "dd41de2d0381",
+  "set": {
+   "prompt": "isometric pixel art tileset sheet, 4 by 4 grid of isometric terrain blocks, each block a flat 2:1 diamond top with a visible dark brown soil side underneath, same light from the top left, rows: brown dirt blocks, cracked rocky dirt blocks, light green grass blocks, mixed grass and plowed soil blocks, muted earthy cerrado palette, crisp clean pixels, plain white background",
+   "denoise": "0.45"
+  },
+  "n": 2
+ }
+]

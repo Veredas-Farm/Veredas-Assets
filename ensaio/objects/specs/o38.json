@@ -1,0 +1,57 @@
+[
+ {
+  "name": "sombra-arvore_ipe_amarelo-A3",
+  "template": "moss",
+  "base": "c9609a089238",
+  "mask": "objects/specs/masks/sombra_arvore_ipe_amarelo_A3.png",
+  "feather": 8,
+  "set": {
+   "prompt": "pixel art, plain flat white background, the flat grey shadow of a round tree crown and trunk cast on the white ground, shadow falling toward the lower right, simple solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ },
+ {
+  "name": "sombra-arvore_pequi-A3",
+  "template": "moss",
+  "base": "c0ddd81ecb9a",
+  "mask": "objects/specs/masks/sombra_arvore_pequi_A3.png",
+  "feather": 8,
+  "set": {
+   "prompt": "pixel art, plain flat white background, the flat grey shadow of a round tree crown and trunk cast on the white ground, shadow falling toward the lower right, simple solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ },
+ {
+  "name": "sombra-carro_de_boi-A3",
+  "template": "moss",
+  "base": "954804eaabb9",
+  "mask": "objects/specs/masks/sombra_carro_de_boi_A3.png",
+  "feather": 8,
+  "set": {
+   "prompt": "pixel art, plain flat white background, the flat grey shadow of a wooden ox cart cast on the white ground, shadow falling toward the lower right, simple solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ },
+ {
+  "name": "sombra-moinho-A3",
+  "template": "moss",
+  "base": "723619d0c32c",
+  "mask": "objects/specs/masks/sombra_moinho_A3.png",
+  "feather": 8,
+  "set": {
+   "prompt": "pixel art, plain flat white background, the flat grey shadow of a small wooden water mill hut cast on the white ground, shadow falling toward the lower right, simple solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ },
+ {
+  "name": "sombra-casa-A3",
+  "template": "moss",
+  "base": "c84390cb9b97",
+  "mask": "objects/specs/masks/sombra_casa_A3.png",
+  "feather": 8,
+  "set": {
+   "prompt": "pixel art, plain flat white background, the flat grey shadow of a small farm house cast on the white ground, shadow falling toward the lower right, simple solid shadow shape with clean hard pixel edges, no grass, no other objects",
+   "denoise": 1.0
+  }
+ }
+]

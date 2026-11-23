@@ -1,0 +1,513 @@
+{
+ "t1": {
+  "size": [
+   186,
+   114
+  ],
+  "cells": [
+   {
+    "asset": "arvore_ipe_amarelo_florido",
+    "rect": [
+     6,
+     16,
+     78,
+     92
+    ]
+   },
+   {
+    "asset": "arvore_pequi_maduro",
+    "rect": [
+     96,
+     6,
+     84,
+     102
+    ]
+   }
+  ],
+  "prompt": "two separate small brazilian cerrado trees side by side, game object sprites for an isometric farming game, three-quarter top-down view, each tree standing on the ground. left: yellow ipe tree, crown covered in bright yellow flowers, thin dark trunk. right: pequi tree, rounded dense dark green crown with small yellow-green fruits, short thick trunk, isometric pixel art, cerrado, muted earthy palette, crisp clean pixels, plain white background"
+ },
+ "t2": {
+  "size": [
+   193,
+   108
+  ],
+  "cells": [
+   {
+    "asset": "arvore_paineira_florida",
+    "rect": [
+     6,
+     6,
+     91,
+     96
+    ]
+   },
+   {
+    "asset": "arvore_ipe_amarelo_seco",
+    "rect": [
+     109,
+     10,
+     78,
+     92
+    ]
+   }
+  ],
+  "prompt": "two separate small brazilian cerrado trees side by side, game object sprites for an isometric farming game, three-quarter top-down view, each tree standing on the ground. left: paineira tree with a swollen bottle shaped grey trunk and a crown of pink flowers. right: leafless dry ipe tree in the dry season, bare twisted brown branches, isometric pixel art, cerrado, muted earthy palette, crisp clean pixels, plain white background"
+ },
+ "t3": {
+  "size": [
+   197,
+   119
+  ],
+  "cells": [
+   {
+    "asset": "arvore_baru_maduro",
+    "rect": [
+     6,
+     6,
+     113,
+     107
+    ]
+   },
+   {
+    "asset": "arvore_cagaita_florida",
+    "rect": [
+     131,
+     37,
+     60,
+     76
+    ]
+   }
+  ],
+  "prompt": "two separate small brazilian cerrado trees side by side, game object sprites for an isometric farming game, three-quarter top-down view, each tree standing on the ground. left: large baru tree, wide dark green crown with brown fruits, crooked trunk. right: small cagaita tree with a rounded crown dotted with white flowers, isometric pixel art, cerrado, muted earthy palette, crisp clean pixels, plain white background"
+ },
+ "obj": {
+  "size": [
+   160,
+   152
+  ],
+  "cells": [
+   {
+    "asset": "carro_de_boi",
+    "rect": [
+     12,
+     18,
+     62,
+     46
+    ]
+   },
+   {
+    "asset": "moinho",
+    "rect": [
+     88,
+     13,
+     58,
+     56
+    ]
+   },
+   {
+    "asset": "carroca_4rodas",
+    "rect": [
+     12,
+     88,
+     62,
+     46
+    ]
+   },
+   {
+    "asset": "moinho_agua",
+    "rect": [
+     86,
+     82,
+     62,
+     58
+    ]
+   }
+  ],
+  "prompt": "2 by 2 grid of separate farm objects for an isometric farming game, three-quarter top-down view. top row: wooden ox cart with two big spoked wheels, small wooden water mill hut with a side wheel on dirt. bottom row: four-wheeled wooden wagon, wooden water mill with a paddle wheel over a small pond, isometric pixel art, cerrado, muted earthy palette, crisp clean pixels, plain white background"
+ },
+ "small": {
+  "size": [
+   188,
+   232
+  ],
+  "cells": [
+   {
+    "asset": "cupinzeiro_alto",
+    "rect": [
+     16,
+     14,
+     24,
+     28
+    ]
+   },
+   {
+    "asset": "cupinzeiro_baixo",
+    "rect": [
+     58,
+     19,
+     28,
+     18
+    ]
+   },
+   {
+    "asset": "pilao",
+    "rect": [
+     103,
+     14,
+     26,
+     28
+    ]
+   },
+   {
+    "asset": "cerca_aroeira",
+    "rect": [
+     144,
+     12,
+     32,
+     32
+    ]
+   },
+   {
+    "asset": "cupinzeiro_alto_c",
+    "rect": [
+     13,
+     58,
+     29,
+     28
+    ]
+   },
+   {
+    "asset": "cupinzeiro_baixo_c",
+    "rect": [
+     58,
+     60,
+     28,
+     23
+    ]
+   },
+   {
+    "asset": "pilao_b",
+    "rect": [
+     103,
+     58,
+     26,
+     28
+    ]
+   },
+   {
+    "asset": "cerca_aroeira_esp",
+    "rect": [
+     144,
+     56,
+     32,
+     32
+    ]
+   },
+   {
+    "asset": "icone_arroz",
+    "rect": [
+     12,
+     100,
+     32,
+     32
+    ]
+   },
+   {
+    "asset": "icone_cagaita",
+    "rect": [
+     56,
+     100,
+     32,
+     32
+    ]
+   },
+   {
+    "asset": "icone_cana",
+    "rect": [
+     100,
+     100,
+     32,
+     32
+    ]
+   },
+   {
+    "asset": "icone_facao",
+    "rect": [
+     144,
+     100,
+     32,
+     32
+    ]
+   },
+   {
+    "asset": "icone_farinha",
+    "rect": [
+     12,
+     144,
+     32,
+     32
+    ]
+   },
+   {
+    "asset": "icone_melancia",
+    "rect": [
+     56,
+     144,
+     32,
+     32
+    ]
+   },
+   {
+    "asset": "icone_pequi",
+    "rect": [
+     100,
+     144,
+     32,
+     32
+    ]
+   },
+   {
+    "asset": "icone_rapadura",
+    "rect": [
+     144,
+     144,
+     32,
+     32
+    ]
+   },
+   {
+    "asset": "farmer_idle_0",
+    "rect": [
+     12,
+     188,
+     32,
+     32
+    ]
+   },
+   {
+    "asset": "icone_feijao",
+    "rect": [
+     56,
+     188,
+     32,
+     32
+    ]
+   },
+   {
+    "asset": "icone_soja",
+    "rect": [
+     100,
+     188,
+     32,
+     32
+    ]
+   },
+   {
+    "asset": "icone_capim",
+    "rect": [
+     144,
+     188,
+     32,
+     32
+    ]
+   }
+  ],
+  "prompt": "sprite sheet of small game items in a 4 by 5 grid, isometric farming game, each item separate. row 1: tall termite mound, low termite mound, wooden mortar and pestle, wooden fence post section. row 2: termite mound, termite mound, wooden mortar, fence section. row 3 item icons: rice sheaf, small yellow fruit, sugar cane, machete. row 4 item icons: sack of manioc flour, watermelon, pequi fruit, brown sugar block. row 5: small farmer with straw hat standing, beans, soybeans, grass bundle, isometric pixel art, cerrado, muted earthy palette, crisp clean pixels, plain white background"
+ },
+ "crops": {
+  "size": [
+   216,
+   132
+  ],
+  "cells": [
+   {
+    "asset": "cultivo_arroz",
+    "rect": [
+     12,
+     12,
+     192,
+     48
+    ]
+   },
+   {
+    "asset": "cultivo_feijao",
+    "rect": [
+     12,
+     76,
+     192,
+     40
+    ]
+   }
+  ],
+  "prompt": "two rows of crop growth stages for a farming game, six stages each from sprout to ripe to dry, left to right. top row: rice plants. bottom row: bean plants, isometric pixel art, cerrado, muted earthy palette, crisp clean pixels, plain white background"
+ },
+ "terrain": {
+  "size": [
+   128,
+   128
+  ],
+  "cells": [
+   {
+    "asset": "terreno_00_grama",
+    "rect": [
+     0,
+     0,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_01_grama",
+    "rect": [
+     32,
+     0,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_02_grama",
+    "rect": [
+     64,
+     0,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_03_grama",
+    "rect": [
+     96,
+     0,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_04_trilha",
+    "rect": [
+     0,
+     32,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_05_trilha",
+    "rect": [
+     32,
+     32,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_06_trilha",
+    "rect": [
+     64,
+     32,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_07_trilha",
+    "rect": [
+     96,
+     32,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_08_palha",
+    "rect": [
+     0,
+     64,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_09_palha",
+    "rect": [
+     32,
+     64,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_10_umida",
+    "rect": [
+     64,
+     64,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_11_umida",
+    "rect": [
+     96,
+     64,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_12_cascalho",
+    "rect": [
+     0,
+     96,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_13_cascalho",
+    "rect": [
+     32,
+     96,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_14_arado",
+    "rect": [
+     64,
+     96,
+     32,
+     32
+    ],
+    "terrain": true
+   },
+   {
+    "asset": "terreno_15_arado_molhado",
+    "rect": [
+     96,
+     96,
+     32,
+     32
+    ],
+    "terrain": true
+   }
+  ],
+  "prompt": "isometric pixel art tileset sheet, 4 by 4 grid of isometric cube blocks, every block a small slab with a flat 2:1 diamond top and dark brown soil sides, same light from the top left, rows: green grass blocks, brown dirt path blocks, dry straw yellow grass and dark green damp grass blocks, grey gravel blocks and tilled soil blocks, isometric pixel art, cerrado, muted earthy palette, crisp clean pixels, plain white background"
+ }
+}

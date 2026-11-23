@@ -1,0 +1,11 @@
+[
+ {
+  "name": "par-d60",
+  "template": "moss-pixel",
+  "base": "5fdd0c11639b",
+  "set": {
+   "prompt": "isometric pixel art game tiles, two isometric blocks, on the left a grass block with a flat diamond shaped top of light green grass, on the right a brown dirt block, each with a visible dark brown soil side below the diamond, 2:1 isometric angle, crisp clean pixels, plain white background",
+   "denoise": "0.6"
+  }
+ }
+]

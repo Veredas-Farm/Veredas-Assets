@@ -1,0 +1,12 @@
+[
+ {
+  "name": "arv-paineira-ipe-d70",
+  "template": "moss-pixel",
+  "base": "5e73b7aaab98",
+  "set": {
+   "prompt": "a single small brazilian cerrado paineira tree with a bottle shaped swollen grey trunk with small thorns, a few spreading branches, crown covered in many tiny pink flowers and no green leaves, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background",
+   "denoise": "0.7"
+  },
+  "n": 2
+ }
+]

@@ -1,0 +1,4 @@
+[
+ {"name":"carro-boi3-moss","template":"moss-pixel","n":2,"set":{"prompt":"a two-wheeled brazilian ox cart: one single axle in the middle with exactly two huge solid wooden disc wheels without spokes, the long narrow wooden cart bed balanced on that axle, a long wooden pole extending forward for the oxen, vertical wooden stakes along the bed sides, no oxen, farming game object sprite, three-quarter isometric view from above, dark outline, centered, plain white background"}},
+ {"name":"carro-boi3-flux","template":"flux-pixel","set":{"prompt":"a two-wheeled brazilian ox cart: one single axle in the middle with exactly two huge solid wooden disc wheels without spokes, the long narrow wooden cart bed balanced on that axle, a long wooden pole extending forward for the oxen, vertical wooden stakes along the bed sides, no oxen, farming game object sprite, three-quarter isometric view from above, dark outline, centered, plain white background"}}
+]

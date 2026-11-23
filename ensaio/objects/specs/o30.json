@@ -1,0 +1,42 @@
+[
+ {
+  "name": "cagaita-folhada",
+  "template": "moss",
+  "base": "fad9e23138c0",
+  "mask": "objects/specs/masks/cagaita.png",
+  "feather": 16,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado cagaita tree: short crooked twisted trunk with corky grey-brown bark, irregular rounded crown made of several dense clumps of small olive green leaves, no fruits, no flowers, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ },
+ {
+  "name": "pequi-florida",
+  "template": "moss",
+  "base": "a9a9f900c291",
+  "mask": "objects/specs/masks/pequi.png",
+  "feather": 8,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado pequi tree: short crooked twisted trunk with corky grey-brown bark, irregular rounded crown made of several dense clumps of small olive green leaves with many pale cream-yellow pequi flowers with long fluffy stamens, no fruits, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ },
+ {
+  "name": "pequi-fruto_verde",
+  "template": "moss",
+  "base": "a9a9f900c291",
+  "mask": "objects/specs/masks/pequi.png",
+  "feather": 8,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado pequi tree: short crooked twisted trunk with corky grey-brown bark, irregular rounded crown made of several dense clumps of small olive green leaves, with several large round green pequi fruits hanging, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ },
+ {
+  "name": "pequi-folhada",
+  "template": "moss",
+  "base": "a9a9f900c291",
+  "mask": "objects/specs/masks/pequi.png",
+  "feather": 8,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado pequi tree: short crooked twisted trunk with corky grey-brown bark, irregular rounded crown made of several dense clumps of small olive green leaves, no fruits, no flowers, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ }
+]

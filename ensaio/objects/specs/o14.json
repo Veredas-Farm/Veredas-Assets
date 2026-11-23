@@ -1,0 +1,4 @@
+[
+ {"name":"st-cana-dead-moss","template":"moss-pixel","set":{"prompt":"sprite sheet of sugarcane plant growth stages in one horizontal row, six stages from a small sprout to a tall mature sugarcane clump with segmented green stalks and long leaves, the last stage a dried withered brown sugarcane clump, each stage standing on a small patch of soil, side view, farming game crop sprites, evenly spaced, plain white background","width":1344,"height":576}},
+ {"name":"st-mandioca-dead-moss","template":"moss-pixel","set":{"prompt":"sprite sheet of cassava plant growth stages in one horizontal row, six stages from a small sprout to a tall cassava shrub with thin reddish stems and hand-shaped palmate leaves, the last stage a dried withered leafless brown cassava plant, each stage standing on a small patch of soil, side view, farming game crop sprites, evenly spaced, plain white background","width":1344,"height":576}}
+]

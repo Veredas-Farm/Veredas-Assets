@@ -1,0 +1,12 @@
+[
+ {
+  "name": "cagaita_c-fruto_verde2",
+  "template": "moss",
+  "base": "bd5fd1c7b5a9",
+  "mask": "objects/specs/masks/cagaita_c.png",
+  "feather": 8,
+  "set": {
+   "prompt": "pixel art, a single small brazilian cerrado cagaita tree: short crooked twisted trunk with corky grey-brown bark, irregular wide crown made of several separate dense clumps of small olive green leaves, with a few small round pale lime green unripe fruits half hidden among the leaves, no yellow fruits, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ }
+]

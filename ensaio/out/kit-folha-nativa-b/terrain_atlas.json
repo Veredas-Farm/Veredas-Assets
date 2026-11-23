@@ -1,0 +1,6756 @@
+{
+ "cell": [
+  32,
+  32
+ ],
+ "terrains": [
+  "dry",
+  "grass",
+  "grass_tone_cool",
+  "grass_tone_warm",
+  "lush",
+  "path",
+  "path_rut_u",
+  "path_rut_v",
+  "rock",
+  "tilled",
+  "tilled_wet",
+  "tone",
+  "water"
+ ],
+ "tiles": [
+  {
+   "atlas": [
+    0,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.05813953488372093
+  },
+  {
+   "atlas": [
+    1,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.05813953488372093
+  },
+  {
+   "atlas": [
+    2,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.05813953488372093
+  },
+  {
+   "atlas": [
+    3,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.05813953488372093
+  },
+  {
+   "atlas": [
+    4,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.05813953488372093
+  },
+  {
+   "atlas": [
+    5,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.05813953488372093
+  },
+  {
+   "atlas": [
+    6,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.05813953488372093
+  },
+  {
+   "atlas": [
+    7,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.05813953488372093
+  },
+  {
+   "atlas": [
+    8,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.05813953488372093
+  },
+  {
+   "atlas": [
+    9,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.05813953488372093
+  },
+  {
+   "atlas": [
+    10,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.03488372093023256
+  },
+  {
+   "atlas": [
+    11,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.03488372093023256
+  },
+  {
+   "atlas": [
+    12,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.03488372093023256
+  },
+  {
+   "atlas": [
+    13,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.03488372093023256
+  },
+  {
+   "atlas": [
+    14,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.03488372093023256
+  },
+  {
+   "atlas": [
+    15,
+    0
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.03488372093023256
+  },
+  {
+   "atlas": [
+    0,
+    1
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.03488372093023256
+  },
+  {
+   "atlas": [
+    1,
+    1
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.03488372093023256
+  },
+  {
+   "atlas": [
+    2,
+    1
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.03488372093023256
+  },
+  {
+   "atlas": [
+    3,
+    1
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.03488372093023256
+  },
+  {
+   "atlas": [
+    4,
+    1
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.03488372093023256
+  },
+  {
+   "atlas": [
+    5,
+    1
+   ],
+   "kind": "pure",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.03488372093023256
+  },
+  {
+   "atlas": [
+    0,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.07352941176470588
+  },
+  {
+   "atlas": [
+    1,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.07352941176470588
+  },
+  {
+   "atlas": [
+    2,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.07352941176470588
+  },
+  {
+   "atlas": [
+    3,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.07352941176470588
+  },
+  {
+   "atlas": [
+    4,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.07352941176470588
+  },
+  {
+   "atlas": [
+    5,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.07352941176470588
+  },
+  {
+   "atlas": [
+    6,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.07352941176470588
+  },
+  {
+   "atlas": [
+    7,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.07352941176470588
+  },
+  {
+   "atlas": [
+    8,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.07352941176470588
+  },
+  {
+   "atlas": [
+    9,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.07352941176470588
+  },
+  {
+   "atlas": [
+    10,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.04411764705882353
+  },
+  {
+   "atlas": [
+    11,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.04411764705882353
+  },
+  {
+   "atlas": [
+    12,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.04411764705882353
+  },
+  {
+   "atlas": [
+    13,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.04411764705882353
+  },
+  {
+   "atlas": [
+    14,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.04411764705882353
+  },
+  {
+   "atlas": [
+    15,
+    2
+   ],
+   "kind": "pure",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.04411764705882353
+  },
+  {
+   "atlas": [
+    0,
+    3
+   ],
+   "kind": "pure",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    1,
+    3
+   ],
+   "kind": "pure",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    2,
+    3
+   ],
+   "kind": "pure",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    3,
+    3
+   ],
+   "kind": "pure",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    4,
+    3
+   ],
+   "kind": "pure",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    5,
+    3
+   ],
+   "kind": "pure",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    0,
+    4
+   ],
+   "kind": "pure",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    1,
+    4
+   ],
+   "kind": "pure",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    2,
+    4
+   ],
+   "kind": "pure",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    3,
+    4
+   ],
+   "kind": "pure",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    4,
+    4
+   ],
+   "kind": "pure",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    5,
+    4
+   ],
+   "kind": "pure",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    0,
+    5
+   ],
+   "kind": "pure",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    1,
+    5
+   ],
+   "kind": "pure",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    2,
+    5
+   ],
+   "kind": "pure",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    3,
+    5
+   ],
+   "kind": "pure",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    4,
+    5
+   ],
+   "kind": "pure",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    5,
+    5
+   ],
+   "kind": "pure",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    0,
+    6
+   ],
+   "kind": "pure",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    1,
+    6
+   ],
+   "kind": "pure",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    2,
+    6
+   ],
+   "kind": "pure",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    3,
+    6
+   ],
+   "kind": "pure",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    4,
+    6
+   ],
+   "kind": "pure",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    5,
+    6
+   ],
+   "kind": "pure",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.16666666666666666
+  },
+  {
+   "atlas": [
+    0,
+    7
+   ],
+   "kind": "pure",
+   "terrain": "tilled",
+   "corners": {
+    "top": "tilled",
+    "right": "tilled",
+    "bottom": "tilled",
+    "left": "tilled"
+   },
+   "probability": 0.5
+  },
+  {
+   "atlas": [
+    1,
+    7
+   ],
+   "kind": "pure",
+   "terrain": "tilled",
+   "corners": {
+    "top": "tilled",
+    "right": "tilled",
+    "bottom": "tilled",
+    "left": "tilled"
+   },
+   "probability": 0.5
+  },
+  {
+   "atlas": [
+    0,
+    8
+   ],
+   "kind": "pure",
+   "terrain": "tilled_wet",
+   "corners": {
+    "top": "tilled_wet",
+    "right": "tilled_wet",
+    "bottom": "tilled_wet",
+    "left": "tilled_wet"
+   },
+   "probability": 0.5
+  },
+  {
+   "atlas": [
+    1,
+    8
+   ],
+   "kind": "pure",
+   "terrain": "tilled_wet",
+   "corners": {
+    "top": "tilled_wet",
+    "right": "tilled_wet",
+    "bottom": "tilled_wet",
+    "left": "tilled_wet"
+   },
+   "probability": 0.5
+  },
+  {
+   "atlas": [
+    0,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "path",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "path",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "path",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "path",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    10,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "path",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    11,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "path",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    12,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "grass",
+    "right": "path",
+    "bottom": "grass",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    13,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "grass",
+    "right": "path",
+    "bottom": "grass",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    14,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "grass",
+    "right": "path",
+    "bottom": "grass",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    15,
+    9
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "grass",
+    "right": "path",
+    "bottom": "path",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "grass",
+    "right": "path",
+    "bottom": "path",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "grass",
+    "right": "path",
+    "bottom": "path",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "grass",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "grass",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "grass",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "path",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "path",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "path",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    10,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    11,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "grass",
+    "bottom": "path",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    12,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "grass",
+    "bottom": "path",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    13,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "grass",
+    "bottom": "path",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    14,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "grass",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    15,
+    10
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "grass",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    11
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "grass",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    11
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    11
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    11
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    11
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "grass",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    11
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "grass",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    11
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "grass",
+    "left": "path"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    11
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    11
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    11
+   ],
+   "kind": "trans",
+   "terrain": "path",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "dry",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "dry",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "dry",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "dry",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    10,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "dry",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    11,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "dry",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    12,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "grass",
+    "right": "dry",
+    "bottom": "grass",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    13,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "grass",
+    "right": "dry",
+    "bottom": "grass",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    14,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "grass",
+    "right": "dry",
+    "bottom": "grass",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    15,
+    12
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "grass",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "grass",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "grass",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "grass",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "grass",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "grass",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "dry",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "dry",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "dry",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    10,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    11,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "grass",
+    "bottom": "dry",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    12,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "grass",
+    "bottom": "dry",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    13,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "grass",
+    "bottom": "dry",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    14,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "grass",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    15,
+    13
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "grass",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    14
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "grass",
+    "bottom": "dry",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    14
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    14
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    14
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    14
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "grass",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    14
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "grass",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    14
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "grass",
+    "left": "dry"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    14
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    14
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    14
+   ],
+   "kind": "trans",
+   "terrain": "dry",
+   "corners": {
+    "top": "dry",
+    "right": "dry",
+    "bottom": "dry",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "lush",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "lush",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "lush",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "lush",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    10,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "lush",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    11,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "lush",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    12,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "grass",
+    "right": "lush",
+    "bottom": "grass",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    13,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "grass",
+    "right": "lush",
+    "bottom": "grass",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    14,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "grass",
+    "right": "lush",
+    "bottom": "grass",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    15,
+    15
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "grass",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "grass",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "grass",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "grass",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "grass",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "grass",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "lush",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "lush",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "lush",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    10,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    11,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "grass",
+    "bottom": "lush",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    12,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "grass",
+    "bottom": "lush",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    13,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "grass",
+    "bottom": "lush",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    14,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "grass",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    15,
+    16
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "grass",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    17
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "grass",
+    "bottom": "lush",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    17
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    17
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    17
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    17
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "grass",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    17
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "grass",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    17
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "grass",
+    "left": "lush"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    17
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    17
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    17
+   ],
+   "kind": "trans",
+   "terrain": "lush",
+   "corners": {
+    "top": "lush",
+    "right": "lush",
+    "bottom": "lush",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "rock",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "rock",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "rock",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "rock",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    10,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "rock",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    11,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "rock",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    12,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "grass",
+    "right": "rock",
+    "bottom": "grass",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    13,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "grass",
+    "right": "rock",
+    "bottom": "grass",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    14,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "grass",
+    "right": "rock",
+    "bottom": "grass",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    15,
+    18
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "grass",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "grass",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "grass",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "grass",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "grass",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "grass",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "rock",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "rock",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "rock",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    10,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    11,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "grass",
+    "bottom": "rock",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    12,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "grass",
+    "bottom": "rock",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    13,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "grass",
+    "bottom": "rock",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    14,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "grass",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    15,
+    19
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "grass",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    20
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "grass",
+    "bottom": "rock",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    20
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    20
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    20
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    20
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "grass",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    20
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "grass",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    20
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "grass",
+    "left": "rock"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    20
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    20
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    20
+   ],
+   "kind": "trans",
+   "terrain": "rock",
+   "corners": {
+    "top": "rock",
+    "right": "rock",
+    "bottom": "rock",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "water",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "water",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "water",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "water",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    10,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "water",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    11,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "grass",
+    "right": "water",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    12,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "grass",
+    "right": "water",
+    "bottom": "grass",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    13,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "grass",
+    "right": "water",
+    "bottom": "grass",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    14,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "grass",
+    "right": "water",
+    "bottom": "grass",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    15,
+    21
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "grass",
+    "right": "water",
+    "bottom": "water",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "grass",
+    "right": "water",
+    "bottom": "water",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "grass",
+    "right": "water",
+    "bottom": "water",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "grass",
+    "right": "water",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "grass",
+    "right": "water",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "grass",
+    "right": "water",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "water",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "water",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "grass",
+   "corners": {
+    "top": "water",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    10,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    11,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "grass",
+    "bottom": "water",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    12,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "grass",
+    "bottom": "water",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    13,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "grass",
+    "bottom": "water",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    14,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "grass",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    15,
+    22
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "grass",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    23
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "grass",
+    "bottom": "water",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    1,
+    23
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    2,
+    23
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    3,
+    23
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    4,
+    23
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "grass",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    5,
+    23
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "grass",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    6,
+    23
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "grass",
+    "left": "water"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    7,
+    23
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "water",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    8,
+    23
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "water",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    9,
+    23
+   ],
+   "kind": "trans",
+   "terrain": "water",
+   "corners": {
+    "top": "water",
+    "right": "water",
+    "bottom": "water",
+    "left": "grass"
+   },
+   "probability": 0.3333333333333333
+  },
+  {
+   "atlas": [
+    0,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    1,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    2,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 1,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    3,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 1,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    4,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 2,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    5,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 2,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    6,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 3,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    7,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 3,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    8,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    9,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    10,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 1,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    11,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 1,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    12,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 2,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    13,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 2,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    14,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 3,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    15,
+    24
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 3,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    0,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    1,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    2,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 1,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    3,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 1,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    4,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 2,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    5,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 2,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    6,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 3,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    7,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 3,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    8,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    9,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    10,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 1,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    11,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 1,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    12,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 2,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    13,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 2,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    14,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 3,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    15,
+    25
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_u",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 3,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    0,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    1,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    2,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 1,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    3,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 1,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    4,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 2,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    5,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 2,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    6,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 3,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    7,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 0,
+   "cout": 3,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    8,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    9,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    10,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 1,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    11,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 1,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    12,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 2,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    13,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 2,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    14,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 3,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    15,
+    26
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 1,
+   "cout": 3,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    0,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    1,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    2,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 1,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    3,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 1,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    4,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 2,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    5,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 2,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    6,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 3,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    7,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 2,
+   "cout": 3,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    8,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    9,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    10,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 1,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    11,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 1,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    12,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 2,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    13,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 2,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    14,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 3,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    15,
+    27
+   ],
+   "kind": "rut",
+   "terrain": "path_rut_v",
+   "corners": {
+    "top": "path",
+    "right": "path",
+    "bottom": "path",
+    "left": "path"
+   },
+   "probability": 1.0,
+   "cin": 3,
+   "cout": 3,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    0,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    1,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    2,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    3,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    4,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    5,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    6,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    7,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    8,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    9,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    10,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    11,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    12,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    13,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    14,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    15,
+    28
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    0,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    1,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    2,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    3,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    4,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    5,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    6,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    7,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    8,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    9,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    10,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    11,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    12,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    13,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    14,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    15,
+    29
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    0,
+    30
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    1,
+    30
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    2,
+    30
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    3,
+    30
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    4,
+    30
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    5,
+    30
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    6,
+    30
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    7,
+    30
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    8,
+    30
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    9,
+    30
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    10,
+    30
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    11,
+    30
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    12,
+    30
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_warm",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    0,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    1,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    2,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    3,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    4,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    5,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    6,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    7,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    8,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    9,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    10,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    11,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    12,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    13,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    14,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 0
+  },
+  {
+   "atlas": [
+    15,
+    31
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    0,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    1,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    2,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    3,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    4,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    5,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    6,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    7,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    8,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    9,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    10,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    11,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    12,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    13,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 1
+  },
+  {
+   "atlas": [
+    14,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    15,
+    32
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    0,
+    33
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    1,
+    33
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    2,
+    33
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    3,
+    33
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    4,
+    33
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "grass"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    5,
+    33
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    6,
+    33
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    7,
+    33
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    8,
+    33
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "grass",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    9,
+    33
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    10,
+    33
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "grass",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    11,
+    33
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "grass",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  },
+  {
+   "atlas": [
+    12,
+    33
+   ],
+   "kind": "tone",
+   "terrain": "grass_tone_cool",
+   "corners": {
+    "top": "tone",
+    "right": "tone",
+    "bottom": "tone",
+    "left": "tone"
+   },
+   "probability": 1.0,
+   "variant": 2
+  }
+ ],
+ "shore": []
+}

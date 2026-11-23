@@ -1,0 +1,24 @@
+[
+ {
+  "name": "sombra-arvore_ipe_amarelo-A1",
+  "template": "moss",
+  "base": "f0a62947e5d4",
+  "mask": "objects/specs/masks/sombra_arvore_ipe_amarelo_A1.png",
+  "feather": 8,
+  "set": {
+   "prompt": "pixel art, isometric farming game ground tile, bright green grass with small grass tufts, the soft flat dark shadow of a round tree crown and trunk cast on the grass, shadow falling toward the lower right, simple shadow shape with clean pixel edges, no objects, top-down view",
+   "denoise": 1.0
+  }
+ },
+ {
+  "name": "sombra-arvore_ipe_amarelo-A2",
+  "template": "moss",
+  "base": "f838ddc13f18",
+  "mask": "objects/specs/masks/sombra_arvore_ipe_amarelo_A2.png",
+  "feather": 8,
+  "set": {
+   "prompt": "pixel art, isometric farming game ground tile, bright green grass with small grass tufts, the soft flat dark shadow of a round tree crown and trunk cast on the grass, shadow falling toward the lower right, simple shadow shape with clean pixel edges, no objects, top-down view",
+   "denoise": 0.8
+  }
+ }
+]

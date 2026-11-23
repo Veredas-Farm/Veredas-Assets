@@ -1,0 +1,9 @@
+[
+ {
+  "name": "moinho2",
+  "template": "moss-pixel",
+  "set": {
+   "prompt": "a small rustic wooden water wheel mill seen from above at three-quarter angle: a big wooden waterwheel with paddles attached to the side of a small wooden shed with a thatched roof, standing on dry brown ground, no water, no stones, dark outline, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"
+  }
+ }
+]

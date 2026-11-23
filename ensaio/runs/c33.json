@@ -1,0 +1,11 @@
+[
+ {
+  "name": "npc_crianca_front",
+  "template": "moss-pixel",
+  "base": "5364f1fc953d",
+  "set": {
+   "prompt": "pixel art character sprite sheet of a tiny chibi little boy child, big head, messy brown hair, yellow t-shirt, blue shorts, barefoot, every frame is the front view facing the camera, standing and walking frames, same character in every frame, simple flat colors, 16-bit RPG farming game sprites, dark outline, plain white background",
+   "denoise": 0.55
+  }
+ }
+]

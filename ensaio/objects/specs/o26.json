@@ -1,0 +1,6 @@
+[
+ {"name": "ipeA-seco-inp", "template": "moss", "base": "b5a204ce1917", "mask": "objects/specs/masks/ipe_amarelo.png", "feather": 16,
+  "set": {"prompt": "pixel art, a single small brazilian cerrado ipe tree in the dry season: short crooked twisted trunk with corky grey-brown bark, completely bare leafless crown of many thin twisted grey-brown branches, no leaves, no flowers, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"}},
+ {"name": "ipeA-seco-i2i", "template": "moss-pixel", "base": "b5a204ce1917",
+  "set": {"denoise": "0.7", "prompt": "a single small brazilian cerrado ipe tree in the dry season: short crooked twisted trunk with corky grey-brown bark, completely bare leafless crown of many thin twisted grey-brown branches, no leaves, no flowers, muted colors, game object sprite for an isometric farming game, three-quarter view, centered, plain white background"}}
+]
