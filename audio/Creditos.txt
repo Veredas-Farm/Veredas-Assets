@@ -1,0 +1,45 @@
+- amb_vereda_water:
+Sound Effect by <a href="https://pixabay.com/users/oxidvideos-37598254/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=307903">Alex</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=307903">Pixabay</a>
+
+- sfx_harvest_crop:
+Sound Effect by <a href="https://pixabay.com/users/freesound_gamestudio-49769582/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=398836">Game Studio</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=398836">Pixabay</a>
+
+- sfx_hoe_till: gerado por IA
+
+- sfx_machete_slash: gerado por IA
+
+- sfx_morning_birds:
+Sound Effect by <a href="https://pixabay.com/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=14557">freesound_community</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=14557">Pixabay</a>
+
+- sfx_night:
+Sound Effect by <a href="https://pixabay.com/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=17064">freesound_community</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=17064">Pixabay</a>
+
+- sfx_plant_seed:
+Seed Germination 2-SYT by CAT-FOX_ALEX -- https://freesound.org/s/864787/ -- License: Creative Commons 0
+
+- sfx_rain_heavy:
+Sound Effect by <a href="https://pixabay.com/users/donrain-26735743/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=110508">Franco Gonzalez</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=110508">Pixabay</a>
+
+- sfx_rain_light:
+Sound Effect by <a href="https://pixabay.com/users/dragon-studio-38165424/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=437318">DRAGON-STUDIO</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=437318">Pixabay</a>
+
+- sfx_step_grass_01:
+Walking on grass.mp3 by Zeinel -- https://freesound.org/s/483924/ -- License: Creative Commons 0
+
+- sfx_step_grass_02:
+Sound Effect by <a href="https://pixabay.com/users/sspsurvival-22364443/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=332958">Semen Surin</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=332958">Pixabay</a>
+
+- sfx_step_grass_03:
+Sound Effect by <a href="https://pixabay.com/users/soumages-49985424/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=363353">images and sound creator</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=363353">Pixabay</a>
+
+- sfx_step_veredas_01:
+Sound Effect by <a href="https://pixabay.com/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=59506">freesound_community</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=59506">Pixabay</a>
+
+- sfx_watering_can:
+Watering the crop.mp3 by wyronroberth -- https://freesound.org/s/516254/ -- License: Creative Commons 0
+
+- sfx_wind:
+Sound Effect by <a href="https://pixabay.com/users/storegraphic-49061086/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=318856">storegraphic</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=318856">Pixabay</a>
+
+- veredas_indie1: gerado por IA
+- veredas_indie2: gerado por IA
